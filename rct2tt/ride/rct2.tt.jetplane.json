@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA20|JETPLANE|27A7754A",
+    "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "mini_rc",
@@ -85,7 +86,6 @@
             "pt-BR": "Carros Avião a Jato",
             "ar-EG": "سيارات الطائرات النفاثة",
             "cs-CZ": "Stíhačková horské dráha",
-            "en-US": "Jet Plane Cars",
             "pl-PL": "Lot odrzutowcem",
             "ru-RU": "Горки-Самолет"
         },

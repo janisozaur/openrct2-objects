@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|GOLF1   |FD380E73",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "mini_golf",
@@ -70,6 +71,7 @@
             "pt-BR": "Minigolfe",
             "cs-CZ": "Mini Golf",
             "ja-JP": "ミニゴルフ",
+            "nb-NO": "Minigolf",
             "nl-NL": "Minigolf",
             "pl-PL": "Minigolf",
             "ru-RU": "Минигольф"
@@ -92,10 +94,7 @@
             "ru-RU": "Спокойная игра в минигольф"
         },
         "capacity": {
-            "cs-CZ": "",
-            "ko-KR": "",
-            "ru-RU": "",
-            "zh-TW": ""
+            "en-GB": ""
         }
     }
 }

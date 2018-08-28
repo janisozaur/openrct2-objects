@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|NRL2    |0365419D",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "miniature_railway",
@@ -10,7 +11,7 @@
         "tabScale": 0.5,
         "hasShelter": true,
         "playDepartSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 8,
         "numEmptyCars": 2,

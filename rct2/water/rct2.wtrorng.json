@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188089|WTRORNG |78871B11",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "water",
     "properties": {
         "palettes": {
@@ -384,7 +385,8 @@
             "pt-BR": "Água Laranja",
             "cs-CZ": "Oranžová voda",
             "pl-PL": "Pomarańczowa woda",
-            "ru-RU": "Рыжая вода"
+            "ru-RU": "Рыжая вода",
+            "ar-Eg": "مياة برتقالية"
         }
     }
 }

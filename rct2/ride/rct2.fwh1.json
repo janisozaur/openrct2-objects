@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|FWH1    |BE0E9ADE",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "ferris_wheel",
@@ -142,6 +143,7 @@
             "cs-CZ": "Ruské kolo",
             "ja-JP": "観覧車",
             "ko-KR": "관람차",
+            "nb-NO": "Pariserhjul",
             "pl-PL": "Diabelski młyn",
             "ru-RU": "Колесо"
         },

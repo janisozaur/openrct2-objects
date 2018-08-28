@@ -3,11 +3,12 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F820|PEGASUSX|488EFEF6",
+    "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "car_ride",
         "category": "gentle",
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
@@ -76,7 +77,6 @@
             "pt-BR": "Carros Pegasus",
             "ar-EG": "سيارات بيجسوس",
             "cs-CZ": "Autodráha s Pegasem",
-            "en-US": "Pegasus Cars",
             "pl-PL": "Przejażdżka na Pegazie",
             "ru-RU": "Пегас"
         },

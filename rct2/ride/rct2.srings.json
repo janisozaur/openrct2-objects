@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|SRINGS  |BB605CD7",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "space_rings",
@@ -138,6 +139,7 @@
             "pt-BR": "Anéis Espaciais",
             "cs-CZ": "Vesmírné kruhy",
             "ja-JP": "スペースリング",
+            "nb-NO": "Romringer",
             "pl-PL": "Kosmiczne pierścienie",
             "ru-RU": "Космокольца"
         },

@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F921|YEWTREEX|C2D06153",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_small",
     "properties": {
         "price": 32,
@@ -10,6 +11,7 @@
         "cursor": "CURSOR_TREE_DOWN",
         "height": 72,
         "sceneryGroup": "SCGTREES",
+        "isTree": true,
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "hasNoSupports": true
@@ -22,7 +24,7 @@
             "de-DE": "Eibenbaum",
             "es-ES": "Tejo",
             "it-IT": "Tasso",
-            "nl-NL": "Taxis",
+            "nl-NL": "Taxus",
             "sv-SE": "Idegran",
             "ko-KR": "주목나무",
             "zh-TW": "紫衫樹",

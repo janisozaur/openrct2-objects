@@ -3,11 +3,12 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|GTC     |9F6FE3B5",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "ghost_train",
         "category": "gentle",
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
@@ -82,9 +83,7 @@
             "zh-CN": "幽灵列车",
             "zh-TW": "幽靈列車",
             "pt-BR": "Carros Trem Fantasma",
-            "ar-EG": "Ghost Train Cars",
             "cs-CZ": "Vlak duchů",
-            "en-US": "Ghost Train Cars",
             "ja-JP": "ゴースト・トレイン",
             "pl-PL": "Pociąg widmo",
             "ru-RU": "Призрак"

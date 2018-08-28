@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0511|RLOG03  |57A7A38E",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -23,7 +24,7 @@
             "de-DE": "Holzhüttenwand-Bauteil",
             "es-ES": "Pieza de pared de cabaña de troncos",
             "it-IT": "Pezzo di parete di capanna di tronchi",
-            "nl-NL": "Stuk Muur Blokhut",
+            "nl-NL": "Stuk muur Blokhut",
             "sv-SE": "Väggdel till timmerstuga",
             "zh-CN": "原木墙一片",
             "cs-CZ": "Stěna důlní chatrče",

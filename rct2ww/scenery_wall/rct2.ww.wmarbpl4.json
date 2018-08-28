@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBCFD13|WMARBPL4|BDE7987C",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -17,7 +18,7 @@
             "de-DE": "Einfache Marmorwand",
             "es-ES": "Pared de mármol simple",
             "it-IT": "Muro di marmo semplice",
-            "nl-NL": "Gesloten Marmeren muur",
+            "nl-NL": "Gesloten marmeren muur",
             "sv-SE": "Osmyckad marmorvägg",
             "zh-CN": "印度成象",
             "cs-CZ": "Obyčejná mramorová zeď",

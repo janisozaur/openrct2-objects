@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0110|POLARBER|42F8E9E2",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "compact_inverted_rc",
@@ -64,9 +65,7 @@
             "nl-NL": "IJsbeerkarretjes",
             "sv-SE": "Berg- och isbjörnsbana",
             "zh-CN": "北极熊云霄飞车",
-            "ar-EG": "Polar Bear Trains",
             "cs-CZ": "Horská dráha polárního medvěda",
-            "en-US": "Polar Bear Trains",
             "ko-KR": "북극곰 차량",
             "pl-PL": "Niedţwiedţ polarny",
             "pt-BR": "Trens Urso Polar",

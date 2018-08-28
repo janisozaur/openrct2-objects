@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0E10|DOLPHINR|54291652",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
@@ -57,7 +58,6 @@
             "zh-CN": "海豚游乐设施",
             "ar-EG": "قوارب الدلوفين",
             "cs-CZ": "Delfíní jízda",
-            "en-US": "Dolphin boats",
             "ko-KR": "돌고래 제트스키",
             "pl-PL": "Przejażdżka na delfinach",
             "pt-BR": "Barcos Golfinho",

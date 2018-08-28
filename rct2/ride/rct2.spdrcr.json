@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|SPDRCR  |82355DA3",
+    "sourceGame": "rct2",
     "objectType": "ride",
     "properties": {
         "type": "spiral_rc",
@@ -61,9 +62,7 @@
             "zh-CN": "螺旋式过山车",
             "zh-TW": "螺旋式雲霄飛車",
             "pt-BR": "Trens Montanha-Russa Espiral",
-            "ar-EG": "Spiral Roller Coaster Trains",
             "cs-CZ": "Spirální horská dráha",
-            "en-US": "Spiral Roller Coaster Trains",
             "ja-JP": "スパイラル・コースター",
             "pl-PL": "Pajęcza jazda",
             "ru-RU": "Спиральные горки"

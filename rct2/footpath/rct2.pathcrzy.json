@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188885|PATHCRZY|51E64899",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "footpath",
     "properties": {
         "hasSupportImages": true,
@@ -27,7 +28,8 @@
             "cs-CZ": "Šílená cesta",
             "ja-JP": "クレイジー敷石歩道",
             "pl-PL": "Zwariowana dróżka",
-            "ru-RU": "Дорожка"
+            "ru-RU": "Дорожка",
+            "ar-EG": "ممشي مجنون مرصوف"
         }
     }
 }

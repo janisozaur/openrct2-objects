@@ -3,12 +3,14 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|TCRP    |FC2E6748",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_small",
     "properties": {
         "price": 30,
         "removalPrice": 15,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 132,
+        "isTree": true,
         "shape": "4/4"
     },
     "images": ["$RCT2:OBJDATA/TCRP.DAT[0..3]"],

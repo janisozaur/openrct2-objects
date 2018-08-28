@@ -3,13 +3,14 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|SMONO   |31FC6615",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "suspended_monorail",
         "category": "transport",
         "tabScale": 0.5,
         "hasShelter": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "maxCarsPerTrain": 4,
         "carColours": [
             [

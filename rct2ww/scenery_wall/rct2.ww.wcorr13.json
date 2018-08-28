@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0313|WCORR13 |3F2BAB73",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -17,7 +18,7 @@
             "de-DE": "Gewelltes Wand-Bauteil",
             "es-ES": "Pieza de pared ondulada",
             "it-IT": "Pezzo di parete ondulata",
-            "nl-NL": "Geplooid Stuk Muur",
+            "nl-NL": "Geplooid stuk muur",
             "sv-SE": "Del av kurrogerad vägg",
             "zh-CN": "金属类墙面",
             "cs-CZ": "Vlnitá zeď",

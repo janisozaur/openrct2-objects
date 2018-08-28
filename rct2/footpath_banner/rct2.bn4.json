@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188F84|BN4     |FD7EF62E",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "footpath_banner",
     "properties": {
         "scrollingMode": 11,
@@ -26,7 +27,8 @@
             "cs-CZ": "Cedule v egyptském stylu",
             "ja-JP": "エジプト風のバナー",
             "pl-PL": "Drogowskaz egipski",
-            "ru-RU": "Знак 'Египет'"
+            "ru-RU": "Знак 'Египет'",
+            "ar-EG": "علامة علي الطراز المصري"
         }
     }
 }

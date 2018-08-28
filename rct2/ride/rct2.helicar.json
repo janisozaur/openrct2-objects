@@ -3,12 +3,13 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|HELICAR |A4EBEE6C",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "mini_helicopters",
         "category": "gentle",
         "hasShelter": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
@@ -83,6 +84,7 @@
             "pt-BR": "Mini-Helicópteros",
             "cs-CZ": "Mini vrtulníky",
             "ja-JP": "ミニヘリコプター",
+            "nb-NO": "Minihelikoptere",
             "pl-PL": "Minihelikoptery",
             "ru-RU": "Вертолётики"
         },

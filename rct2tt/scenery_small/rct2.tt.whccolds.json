@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F821|WHCCOLDS|63382D27",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_small",
     "properties": {
         "price": 68,
@@ -29,7 +30,7 @@
             "de-DE": "Hexen um Kessel",
             "es-ES": "Brujas alrededor del caldero",
             "it-IT": "Streghe intorno al calderone",
-            "nl-NL": "Heksen rond Cauldron",
+            "nl-NL": "Heksen rond een ketel",
             "sv-SE": "Häxor runt kittel",
             "ko-KR": "가마솥 근처의 마녀",
             "zh-TW": "圍繞大汽鍋的巫師",

@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188F84|BN6     |927AF341",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "footpath_banner",
     "properties": {
         "scrollingMode": 15,
@@ -27,7 +28,9 @@
             "cs-CZ": "Cedule v jurském stylu",
             "ja-JP": "ジュラシック風のバナー",
             "pl-PL": "Drogowskaz jurajski",
-            "ru-RU": "Знак 'Юрский п-д'"
+            "ru-RU": "Знак 'Юрский п-д'",
+            "ar-EG": "علامة العصر الجوراسي"
+            
         }
     }
 }

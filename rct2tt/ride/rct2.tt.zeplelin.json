@@ -3,13 +3,14 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F920|ZEPLELIN|DBCFDAE2",
+    "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "suspended_monorail",
         "category": "transport",
         "tabScale": 0.5,
         "hasShelter": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "maxCarsPerTrain": 4,
         "carColours": [
             [

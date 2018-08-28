@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0212|SUNKEN  |7ECC2AF9",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
         "price": 190,
@@ -132,7 +133,7 @@
             "de-DE": "Versunkenes Schiff",
             "es-ES": "Barco hundido",
             "it-IT": "Nave affondata",
-            "nl-NL": "Gezonken Schip",
+            "nl-NL": "Gezonken schip",
             "sv-SE": "Sjunket skepp",
             "zh-CN": "沉船",
             "cs-CZ": "Potopená loď",

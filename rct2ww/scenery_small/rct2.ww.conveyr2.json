@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0411|CONVEYR2|AFCA36A0",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 40,
@@ -28,7 +29,7 @@
             "de-DE": "Laufband-Anstieg",
             "es-ES": "Subida de cinta transportadora",
             "it-IT": "Salita di nastro trasportatore",
-            "nl-NL": "Stijgend Stuk Lopende Band",
+            "nl-NL": "Stijgend stuk Lopende Band",
             "sv-SE": "Transportband, stigning",
             "zh-CN": "运输带升起",
             "cs-CZ": "Dopravní pás",

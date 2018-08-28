@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0411|CONVEYR4|B00EC8D4",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 40,
@@ -28,7 +29,7 @@
             "de-DE": "Laufband-Gerade",
             "es-ES": "Recta de cinta transportadora",
             "it-IT": "Sezione diritta di nastro trasportatore",
-            "nl-NL": "Recht Stuk Lopende Band",
+            "nl-NL": "Recht stuk Lopende Band",
             "sv-SE": "Transportband, rak del",
             "zh-CN": "运输带直线",
             "cs-CZ": "Dopravní pás",

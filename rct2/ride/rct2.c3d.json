@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|C3D     |CF02AAF7",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "3d_cinema",
@@ -146,6 +147,7 @@
             "pt-BR": "Cinema 3D",
             "cs-CZ": "3D Kino",
             "ja-JP": "3D映画",
+            "nb-NO": "3D kino",
             "pl-PL": "Kino trójwymiarowe",
             "ru-RU": "3D Кино"
         },

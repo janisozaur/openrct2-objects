@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0A11|WGEORG12|27D57DC0",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -23,7 +24,7 @@
             "de-DE": "Georgianisches Wand-Bauteil 6",
             "es-ES": "Pieza de pared georgiana 6",
             "it-IT": "Pezzo di muro georgiano 6",
-            "nl-NL": "Stuk Muur in Georgische stijl 6",
+            "nl-NL": "Stuk muur in Georgiaanse stijl 6",
             "sv-SE": "Georgiansk väggdel 6",
             "cs-CZ": "Gregoriánská stěna - část 6",
             "ko-KR": "조지아식 벽 조각 6",

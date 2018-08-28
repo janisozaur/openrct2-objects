@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F720|PTERODAC|83F40281",
+    "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "flying_rc",
@@ -95,9 +96,7 @@
             "ko-KR": "익룡 차량",
             "zh-TW": "翼手龍雲霄飛車",
             "pt-BR": "Trens Pterodáctilo",
-            "ar-EG": "Pterodactyl Trains",
             "cs-CZ": "Pterodaktylská horská dráha",
-            "en-US": "Pterodactyl Trains",
             "pl-PL": "Pterodaktylot",
             "ru-RU": "Птеродактиль"
         },

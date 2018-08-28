@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0411|RCORR04 |D288FC93",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -23,7 +24,7 @@
             "de-DE": "Gewelltes Dach-Bauteil",
             "es-ES": "Pieza de tejado ondulado",
             "it-IT": "Pezzo di tetto ondulato",
-            "nl-NL": "Geplooid Stuk dak",
+            "nl-NL": "Geplooid stuk dak",
             "sv-SE": "Del av korrugerat tak",
             "zh-CN": "金属类屋顶",
             "cs-CZ": "Vlnitá střecha",

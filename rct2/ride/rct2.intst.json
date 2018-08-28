@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|INTST   |59F1CF92",
+    "sourceGame": "rct2",
     "objectType": "ride",
     "properties": {
         "type": "giga_rc",
@@ -84,7 +85,7 @@
         "name": {
             "en-GB": "Giga Coaster Trains",
             "fr-FR": "Giga montagnes russes",
-            "de-DE": "Giga-Bahn",
+            "de-DE": "Giga-Bahn-Züge",
             "es-ES": "Gigamontaña Rusa",
             "it-IT": "Giga-coaster",
             "nl-NL": "Giga-achtbaantrein",

@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0210|GORILLA |E8224108",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "suspended_swinging_rc",
@@ -89,7 +90,8 @@
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 человека в вагоне"
+            "ru-RU": "4 человека в вагоне",
+            "pt-BR": "4 passageiros por vagão"
         }
     }
 }

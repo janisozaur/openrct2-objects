@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0210|HIPPORID|89FABFD7",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "submarine_ride",
@@ -10,7 +11,7 @@
             "gentle",
             "water"
         ],
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["yellow", "olive_green", "black"]
@@ -53,7 +54,6 @@
             "zh-CN": "河马游乐设施",
             "ar-EG": "غواصات الهيبو",
             "cs-CZ": "Hroší jízda",
-            "en-US": "Hippo Submarines",
             "ko-KR": "하마 잠수함",
             "pl-PL": "Przejażdżka hipopotamem",
             "pt-BR": "Submarinos Hipopótamo",

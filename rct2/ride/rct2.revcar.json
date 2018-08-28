@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|REVCAR  |50718182",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "reverser_rc",
@@ -110,9 +111,7 @@
             "zh-CN": "倒退式过山车",
             "zh-TW": "倒退式雲霄飛車",
             "pt-BR": "Carros Reversos",
-            "ar-EG": "Reverser Cars",
             "cs-CZ": "Otáčivá horská dráha",
-            "en-US": "Reverser Cars",
             "ja-JP": "逆向きジェットコースター",
             "pl-PL": "Zawracajka",
             "ru-RU": "Горки с 4м измерением"

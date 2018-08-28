@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C81|BEANST2 |037FD401",
+    "sourceGame": "rct2",
     "objectType": "scenery_small",
     "properties": {
         "price": 25,
@@ -20,7 +21,7 @@
             "de-DE": "Riesiger Bohnenstengel",
             "es-ES": "Pedúnculo de judías",
             "it-IT": "Pianta di fagiolo gigante",
-            "nl-NL": "Gigantische Bonenstaak",
+            "nl-NL": "Gigantische bonenstaak",
             "sv-SE": "Jättebönstjälk",
             "ko-KR": "대형 강낭콩 줄기",
             "zh-CN": "巨大的豆茎",

@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|BMSD    |E64D1747",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "twister_rc",
@@ -98,9 +99,7 @@
             "zh-CN": "旋风式过山车",
             "zh-TW": "旋風式雲霄飛車",
             "pt-BR": "Trens Tornado",
-            "ar-EG": "Twister Trains",
             "cs-CZ": "Zakroucená horská dráha",
-            "en-US": "Twister Trains",
             "ja-JP": "ツイスター・ジェットコースター",
             "pl-PL": "Zwijka",
             "ru-RU": "Твистер-коастер"

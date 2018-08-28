@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|AMT1    |53A59CAC",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "mine_train_rc",
@@ -83,9 +84,7 @@
             "zh-CN": "坑道冲锋车",
             "zh-TW": "坑道衝鋒車",
             "pt-BR": "Trens de Mina",
-            "ar-EG": "Mine Trains",
             "cs-CZ": "Důlní horská dráha",
-            "en-US": "Mine Trains",
             "ja-JP": "マイン・トレイン",
             "pl-PL": "Kolejka kopalniana",
             "ru-RU": "Шахтёрские горки"

@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|DING1   |7EB3E178",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "dinghy_slide",
@@ -10,7 +11,7 @@
             "water",
             "rollercoaster"
         ],
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["yellow", "bordeaux_red", "black"]
@@ -57,10 +58,7 @@
             "ko-KR": "보트",
             "zh-CN": "滑行小船",
             "zh-TW": "滑行小船",
-            "pt-BR": "Dinghies",
-            "ar-EG": "Dinghies",
             "cs-CZ": "Nafukovací čluny",
-            "en-US": "Dinghies",
             "ja-JP": "ディンジー・スライド",
             "pl-PL": "Ślizg pontonowy",
             "ru-RU": "Шлюпки"

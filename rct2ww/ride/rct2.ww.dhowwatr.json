@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBCFB10|DHOWWATR|A290AEE5",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
@@ -49,7 +50,6 @@
             "zh-CN": "帆船水上游乐设施",
             "ar-EG": "Dhow boats",
             "cs-CZ": "Plachetnice",
-            "en-US": "Dhow boats",
             "ko-KR": "아랍식 보트",
             "pl-PL": "Przejażdżka na dawach",
             "pt-BR": "Barcos Veleiros",

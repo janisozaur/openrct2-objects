@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA21|RUNWAY04|CE210D7B",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_small",
     "properties": {
         "price": 18,
@@ -26,7 +27,7 @@
             "de-DE": "Landebahn-Kantenstück",
             "es-ES": "Sección de borde de autopista",
             "it-IT": "Tratto del bordo in salita",
-            "nl-NL": "Randstuk Startbaan",
+            "nl-NL": "Randstuk startbaan",
             "sv-SE": "Kantdel till landningsbana",
             "ko-KR": "활주로 가장자리 조각",
             "zh-TW": "跑到邊緣塊",

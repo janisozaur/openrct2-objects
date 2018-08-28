@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBCFD11|JPFLAG03|8C3FE72A",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 40,
@@ -28,7 +29,7 @@
             "de-DE": "Japanische Seidenflagge",
             "es-ES": "Bandera de seda japonesa",
             "it-IT": "Bandiera giapponese di seta",
-            "nl-NL": "Japanse Vlag van zijde",
+            "nl-NL": "Japanse vlag van zijde",
             "sv-SE": "Japansk silkesflagga",
             "zh-CN": "日本的丝织旗",
             "cs-CZ": "Japonská hedvábná vlajka",

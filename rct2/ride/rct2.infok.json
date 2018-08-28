@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|INFOK   |6888ED73",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "information_kiosk",
@@ -36,7 +37,7 @@
             "en-GB": "Information Kiosk",
             "fr-FR": "Point info",
             "de-DE": "Informationskiosk",
-            "es-ES": "Quiosco de infromación",
+            "es-ES": "Quiosco de información",
             "it-IT": "Ufficio informazioni",
             "nl-NL": "Informatiekiosk",
             "sv-SE": "Informationskiosk",
@@ -46,6 +47,7 @@
             "pt-BR": "Quiosque de Informações",
             "cs-CZ": "Kiosek",
             "ja-JP": "インフォーメーションキオスク",
+            "nb-NO": "Informasjonskiosk",
             "pl-PL": "Kiosk informacyjny",
             "ru-RU": "Справка"
         },
@@ -53,7 +55,7 @@
             "en-GB": "A stall where guests can obtain park maps and purchase umbrellas",
             "fr-FR": "Boutique proposant des cartes du parc et des parapluies",
             "de-DE": "Ein Stand, an dem die Besucher Parkkarten bekommen und Schirme kaufen können",
-            "es-ES": "Puesto en el que los visitantes obtienen mapas del parque y compran paraguas",
+            "es-ES": "Puesto en el que los visitantes obtienen mapas del parque y compran paraguas.",
             "it-IT": "Un chiosco in cui i visitatori possono avere delle mappe del parco e comprare degli ombrelli",
             "nl-NL": "Een kiosk waar bezoekers kaarten van het park en paraplu's kunnen kopen.",
             "sv-SE": "Ett stånd där besökarna kan hitta kartor över parken och köpa paraplyer",

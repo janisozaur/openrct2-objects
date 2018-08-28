@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|OBS1    |D59D67B3",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "observation_tower",
@@ -133,9 +134,7 @@
             "zh-CN": "了望台",
             "zh-TW": "瞭望台",
             "pt-BR": "Cabine Plataforma única",
-            "ar-EG": "Single-deck Cabin",
             "cs-CZ": "Vyhlídková věž",
-            "en-US": "Single-deck Cabin",
             "ja-JP": "展望台",
             "pl-PL": "Wieża obserwacyjna",
             "ru-RU": "Смотровая башня"

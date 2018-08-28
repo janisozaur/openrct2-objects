@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188088|PKENT1  |E3FB2B4B",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "park_entrance",
     "properties": {
         "scrollingMode": 3,
@@ -25,7 +26,8 @@
             "cs-CZ": "Tradiční brána pro vstup do parku",
             "ja-JP": "昔ながらの遊園地の入口",
             "pl-PL": "Tradycyjne wejście do parku",
-            "ru-RU": "Традиционный вход"
+            "ru-RU": "Традиционный вход",
+            "ar-EG": "مدخل حديقة تقليدي"
         }
     }
 }

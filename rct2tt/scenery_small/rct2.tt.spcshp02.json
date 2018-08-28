@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FB21|SPCSHP02|F82DAA91",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_small",
     "properties": {
         "price": 40,
@@ -29,7 +30,7 @@
             "de-DE": "Raumschiff Kommunikationstrakt",
             "es-ES": "Sección de comunicaciones de nave espacial",
             "it-IT": "Sezione delle comunicazioni della navicella spaziale",
-            "nl-NL": "Communicatiegedeelte Ruimteschip",
+            "nl-NL": "Communicatiegedeelte ruimteschip",
             "sv-SE": "Kommunikationssektion, rymdskepp",
             "ko-KR": "우주선 통신 섹션",
             "zh-TW": "太空船通訊區",

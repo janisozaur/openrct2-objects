@@ -3,12 +3,14 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|TAP     |F3D8B277",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_small",
     "properties": {
         "price": 18,
         "removalPrice": 10,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 80,
+        "isTree": true,
         "shape": "4/4"
     },
     "images": ["$RCT2:OBJDATA/TAP.DAT[0..3]"],

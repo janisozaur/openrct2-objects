@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|TBR     |AEBAC51E",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_small",
     "properties": {
         "price": 6,
@@ -16,7 +17,7 @@
     "strings": {
         "name": {
             "en-GB": "Bulrushes",
-            "en-GB": "Cattails",            
+            "en-US": "Cattails",            
             "fr-FR": "Roseaux",
             "de-DE": "Rohrkolben",
             "es-ES": "Gladiolos",

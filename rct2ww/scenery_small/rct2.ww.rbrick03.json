@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0911|RBRICK03|683186E2",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -23,7 +24,7 @@
             "de-DE": "Backstein Flachdach-Kantenbauteil",
             "es-ES": "Pieza de borde de tejado plano de ladrillo rojo",
             "it-IT": "Pezzo d'orlo di tetto piatto di mattoni rossi",
-            "nl-NL": "Randstuk voor platdak van Rode Baksteen",
+            "nl-NL": "Randstuk voor plat dak van rode baksteen",
             "sv-SE": "Platt kantdel för rött tegeltak",
             "cs-CZ": "Krajní červená střecha",
             "ko-KR": "붉은 벽돌 평평한 지붕 가장자리 조각",

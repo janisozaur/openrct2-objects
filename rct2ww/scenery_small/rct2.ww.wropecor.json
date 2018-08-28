@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0F11|WROPECOR|1D93C2E1",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 40,
@@ -29,7 +30,7 @@
             "de-DE": "Nautische Dacheckreling",
             "es-ES": "Baranda de esquina de tejado náutico",
             "it-IT": "Angolo di ringhiera di tetto in stile nautico",
-            "nl-NL": "Nautisch Hek Hoekstuk Dak",
+            "nl-NL": "Nautisch Hek Hoekstuk dak",
             "sv-SE": "Nautiskt hörntakräcke",
             "cs-CZ": "Mořský roh střechy",
             "ko-KR": "해상 구석 지붕 울타리",

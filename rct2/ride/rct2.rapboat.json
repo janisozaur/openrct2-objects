@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|RAPBOAT |2271B2DD",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "river_rapids",
@@ -11,7 +12,7 @@
             "thrill"
         ],
         "playSplashSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["bright_red", "bright_red", "black"]

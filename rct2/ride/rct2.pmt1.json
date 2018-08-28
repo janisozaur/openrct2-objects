@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|PMT1    |F8FD41B4",
+    "sourceGame": "rct2",
     "objectType": "ride",
     "properties": {
         "type": "mine_ride",
@@ -93,9 +94,7 @@
             "zh-CN": "矿坑列车",
             "zh-TW": "礦坑列車",
             "pt-BR": "Trens de Mina Motorizados",
-            "ar-EG": "Powered mine train",
             "cs-CZ": "Důlní jízda",
-            "en-US": "Powered mine train",
             "ja-JP": "マイン・ライド",
             "pl-PL": "Przejażdżka kopalniana",
             "ru-RU": "Рудник"

@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|HSKELT  |3380F9BF",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "spiral_slide",
@@ -41,6 +42,7 @@
             "pt-BR": "Escorregador Espiral",
             "cs-CZ": "Točitá skluzavka",
             "ja-JP": "状の滑り台",
+            "nb-NO": "Spiralsklietårn",
             "pl-PL": "Spiralny zjazd",
             "ru-RU": "Спираль"
         },

@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F721|TARPIT05|6E8E5EB1",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_small",
     "properties": {
         "price": 4,
@@ -25,7 +26,7 @@
             "de-DE": "Brodelnde Teergrube",
             "es-ES": "Pozo de brea burbujeante",
             "it-IT": "Fossa di pece bollente",
-            "nl-NL": "Borrelende Teerpoel",
+            "nl-NL": "Borrelende teerpoel",
             "sv-SE": "Sjudande tjärgrop",
             "ko-KR": "거품이 이는 타르갱",
             "zh-TW": "冒泡的瀝青坑",

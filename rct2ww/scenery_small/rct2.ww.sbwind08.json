@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0611|SBWIND08|C5C9F689",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -26,7 +27,7 @@
             "de-DE": "Erosionsfelsen - Basis",
             "es-ES": "Base de formación de roca esculpida por el viento",
             "it-IT": "Base di formazione rocciosa erosa dal vento",
-            "nl-NL": "Door Wind gevormde Basis van Rotsformatie",
+            "nl-NL": "Door wind gevormde Basis van Rotsformatie",
             "sv-SE": "Vindformad bergsfot",
             "zh-CN": "风蚀造形岩块组成的基底部位",
             "cs-CZ": "Základna větrem ošlehaného kamene",

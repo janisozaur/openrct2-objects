@@ -3,12 +3,14 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|TCJ     |A88F5E34",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_small",
     "properties": {
         "price": 10,
         "removalPrice": 5,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 64,
+        "isTree": true,
         "shape": "1/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true
     },

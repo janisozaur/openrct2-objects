@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|CORROOF |157BA6B7",
+    "sourceGame": "rct2",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -26,7 +27,7 @@
             "de-DE": "Wellblechdach",
             "es-ES": "Tejado de acero arrugado",
             "it-IT": "Tetto d'acciaio ondulato",
-            "nl-NL": "Geplooide Stalen Dak",
+            "nl-NL": "Geplooid stalen dak",
             "sv-SE": "Korrugerat ståltak",
             "ko-KR": "물결 무늬 강철 지붕",
             "zh-CN": "波纹的钢制屋顶",

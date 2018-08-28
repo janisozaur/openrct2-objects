@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C81|BRCRRF2 |97B746F9",
+    "sourceGame": "rct2",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -26,7 +27,7 @@
             "de-DE": "Gebogenes Dach",
             "es-ES": "Tejado curvado",
             "it-IT": "Tetto curvo",
-            "nl-NL": "Gebogen Dak",
+            "nl-NL": "Gebogen dak",
             "sv-SE": "Böjt tak",
             "ko-KR": "곡선형 지붕",
             "zh-CN": "弯曲式屋顶",

@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0012|CDRAGON |CE2E7396",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
         "price": 190,
@@ -132,7 +133,7 @@
             "de-DE": "Chinesischer Drache",
             "es-ES": "Dragón chino",
             "it-IT": "Drago cinese",
-            "nl-NL": "Chinese Draak",
+            "nl-NL": "Chinese draak",
             "sv-SE": "Kinesisk drake",
             "zh-CN": "中国吉龙",
             "cs-CZ": "Čínský drak",

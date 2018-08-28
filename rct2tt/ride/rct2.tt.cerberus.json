@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F820|CERBERUS|7CE9E834",
+    "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "twister_rc",
@@ -99,9 +100,7 @@
             "ko-KR": "케르베로스 차량",
             "zh-TW": "三頭狗雲霄飛車",
             "pt-BR": "Trens Cérbero",
-            "ar-EG": "Cerberus Trains",
             "cs-CZ": "Kerberosova horská dráha",
-            "en-US": "Cerberus Trains",
             "pl-PL": "Cerber",
             "ru-RU": "Горки Цербер"
         },

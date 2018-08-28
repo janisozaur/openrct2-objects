@@ -3,12 +3,14 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F922|MELMTREE|99673EFE",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_large",
     "properties": {
         "price": 36,
         "removalPrice": 28,
         "cursor": "CURSOR_TREE_DOWN",
         "sceneryGroup": "SCGTREES",
+        "isTree": true,
         "tiles": [
             {
                 "x": 0,

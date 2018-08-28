@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|GDROP1  |CFBA20A5",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "roto_drop",
@@ -376,6 +377,7 @@
             "pt-BR": "Queda Giratória",
             "cs-CZ": "Roto-pád",
             "ja-JP": "ロトドロップ",
+            "nb-NO": "Rotofall",
             "pl-PL": "Obrotospad",
             "ru-RU": "Рото-дроп"
         },
@@ -403,7 +405,7 @@
             "es-ES": "16 pasajeros",
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
-            "sv-SE": "16 ?",
+            "sv-SE": "16 passagerare",
             "ko-KR": "승객 16명",
             "zh-CN": "16位客人",
             "zh-TW": "16位客人",

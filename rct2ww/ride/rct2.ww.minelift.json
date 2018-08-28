@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0210|MINELIFT|C3FDFB8B",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "lift",
@@ -33,7 +34,7 @@
                 "restraintAnimation": true,
                 "VEHICLE_SPRITE_FLAG_15": true
             },
-            "VEHICLE_ENTRY_FLAG_15": true,
+            "VEHICLE_ENTRY_FLAG_LIFT": true,
             "VEHICLE_ENTRY_FLAG_POWERED": true,
             "numSegments": 0,
             "loadingWaypoints": [
@@ -131,9 +132,7 @@
             "nl-NL": "Mijnlift",
             "sv-SE": "Gruvhiss",
             "zh-CN": "坑道升降机",
-            "ar-EG": "Mine Lift Cabin",
             "cs-CZ": "Důlní výtah",
-            "en-US": "Mine Lift Cabin",
             "ko-KR": "탄광 엘리베이터 차량",
             "pl-PL": "Winda kopalniana",
             "pt-BR": "Cabine de Elevador de Mina",

@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F821|HEVBTH17|8914BA38",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_small",
     "properties": {
         "price": 44,
@@ -32,7 +33,7 @@
             "de-DE": "Poolkante des Himmlischen Bades",
             "es-ES": "Borde de piscina de termas de los dioses",
             "it-IT": "Bordo della piscina delle Terme Celestiali",
-            "nl-NL": "Rand Hemels bad",
+            "nl-NL": "Rand hemels bad",
             "sv-SE": "Bassängkant, himmelskt bad",
             "ko-KR": "천상의 욕실 풀 가장자리",
             "zh-TW": "天國浴場水池邊緣",

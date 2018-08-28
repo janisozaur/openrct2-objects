@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0A11|RGEORG10|8F0FA5EA",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -23,7 +24,7 @@
             "de-DE": "Georgianische Flachdachkante 2",
             "es-ES": "Borde de tejado plano georgiano 2",
             "it-IT": "Orlo di tetto piatto georgiano 2",
-            "nl-NL": "Rand platdak in Georgische stijl 2",
+            "nl-NL": "Rand plat dak in Georgiaanse stijl 2",
             "sv-SE": "Georgiansk platt tak-kant 2",
             "cs-CZ": "Gregoriánská střecha",
             "ko-KR": "조지아식 평평한 지붕 가장자리 2",

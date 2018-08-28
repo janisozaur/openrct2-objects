@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|SWSH2   |53CA2501",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "swinging_inverter_ship",
@@ -56,6 +57,7 @@
             "pt-BR": "Navio de Balanço Reverso",
             "cs-CZ": "Houpající se obrácená loď",
             "ja-JP": "スイング・インバータ・シップ",
+            "nb-NO": "Roterende skip",
             "pl-PL": "Morska huśtawka",
             "ru-RU": "Качающийся корабль"
         },

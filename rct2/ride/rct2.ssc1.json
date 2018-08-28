@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|SSC1    |582A63A3",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "launched_freefall",
@@ -210,9 +211,7 @@
             "zh-CN": "发射自由落体",
             "zh-TW": "發射自由落體",
             "pt-BR": "Carro Queda Livre Lançada",
-            "ar-EG": "Launched Freefall car",
             "cs-CZ": "Volný pád",
-            "en-US": "Launched Freefall car",
             "ja-JP": "ローンチ・フリーフォール",
             "pl-PL": "Wystrzałowa spadajka",
             "ru-RU": "Падение"

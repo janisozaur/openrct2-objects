@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|CIRCUS1 |2BCEECE3",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "circus",
@@ -136,6 +137,7 @@
             "pt-BR": "Circo",
             "cs-CZ": "Cirkus",
             "ja-JP": "サーカス",
+            "nb-NO": "Sirkus",
             "nl-NL": "Circus",
             "pl-PL": "Cyrk",
             "ru-RU": "Цирк"

@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|STLDW   |68F06444",
+    "sourceGame": "rct2",
     "objectType": "scenery_small",
     "properties": {
         "price": 18,
@@ -27,7 +28,7 @@
             "de-DE": "Stahlmauer",
             "es-ES": "Pared de acero",
             "it-IT": "Muro d'acciaio",
-            "nl-NL": "Stalen Muur",
+            "nl-NL": "Stalen wand",
             "sv-SE": "Stålmur",
             "ko-KR": "강철 벽",
             "zh-CN": "钢铁墙",

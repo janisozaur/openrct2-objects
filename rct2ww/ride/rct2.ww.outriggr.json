@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0810|OUTRIGGR|CEE2B803",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
@@ -48,9 +49,7 @@
             "nl-NL": "Outriggerkano's",
             "sv-SE": "Utriggarbana",
             "zh-CN": "水上浮舟游乐设施",
-            "ar-EG": "Outrigger canoes",
             "cs-CZ": "Loď s vahadly",
-            "en-US": "Outrigger canoes",
             "ko-KR": "아웃리거 카누",
             "pl-PL": "Wiosła w dłoń",
             "pt-BR": "Canoas Polinésia",

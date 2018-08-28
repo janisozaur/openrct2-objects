@@ -3,12 +3,12 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C80|WMSPIN  |0E117B71",
+    "sourceGame": "rct2",
     "objectType": "ride",
     "properties": {
         "type": "steel_wild_mouse",
         "category": "rollercoaster",
-        "RIDE_ENTRY_FLAG_16": true,
-        "ratingMultipler": {
+          "ratingMultipler": {
             "excitement": 7,
             "intensity": 5,
             "nausea": 43
@@ -61,9 +61,7 @@
             "zh-CN": "太空飞鼠",
             "zh-TW": "太空飛鼠",
             "pt-BR": "Carros Rato Giratório",
-            "ar-EG": "Spinning Mouse Cars",
             "cs-CZ": "Točící se divoká myš",
-            "en-US": "Spinning Mouse Cars",
             "ja-JP": "スピニング・ワイルド・マウス車両",
             "pl-PL": "Wirująca szalona mysz",
             "ru-RU": "Вращающаяся мышка"

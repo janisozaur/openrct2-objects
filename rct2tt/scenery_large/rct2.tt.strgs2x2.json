@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F822|STRGS2X2|FD13E58E",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_large",
     "properties": {
         "price": 48,
@@ -49,7 +50,7 @@
             "de-DE": "Gerades Stück des Römischen Palastes",
             "es-ES": "Sección recta de palacio romano",
             "it-IT": "Tratto rettilineo del Palazzo Romano",
-            "nl-NL": "Recht Stuk Romeins paleis",
+            "nl-NL": "Recht stuk Romeins paleis",
             "sv-SE": "Rak del, romerskt palats",
             "ko-KR": "로마 궁 직선 조각",
             "zh-TW": "羅馬皇宮直線塊",

@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C82|PRSHIP  |5CD70D93",
+    "sourceGame": "rct2",
     "objectType": "scenery_large",
     "properties": {
         "price": 190,
@@ -84,6 +85,7 @@
             "pt-BR": "Navio Pirata",
             "cs-CZ": "Pirátská loď",
             "ja-JP": "海賊船",
+            "nb-NO": "Piratskip",
             "pl-PL": "Okręt piracki",
             "ru-RU": "Корабль"
         }

@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0110|KILLWHAL|8617DD85",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "submarine_ride",
@@ -10,7 +11,7 @@
             "gentle",
             "water"
         ],
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["yellow", "olive_green", "black"]
@@ -53,7 +54,6 @@
             "zh-CN": "杀人鲸",
             "ar-EG": "غواصات الحوت القاتل",
             "cs-CZ": "Zabijácká velryba",
-            "en-US": "Killer Whale Submarines",
             "ko-KR": "범고래 잠수함",
             "pl-PL": "Zabójczy wieloryb",
             "pt-BR": "Submarinos Baleia Assassina",

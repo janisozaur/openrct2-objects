@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|RFTBOAT |9C39AB46",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
         "type": "river_rafts",
@@ -11,7 +12,7 @@
             "transport"
         ],
         "hasShelter": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["light_brown", "white", "white"]
@@ -56,9 +57,7 @@
             "zh-CN": "水上橡皮艇",
             "zh-TW": "水上橡皮艇",
             "pt-BR": "Jangadas",
-            "ar-EG": "Rafts",
             "cs-CZ": "Říční rafty",
-            "en-US": "Rafts",
             "ja-JP": "川いかだ",
             "pl-PL": "Tratwy rzeczne",
             "ru-RU": "Рафтинг"

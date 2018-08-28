@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0F13|WALLNA02|61690A54",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -17,7 +18,7 @@
             "de-DE": "Nautisches Wand-Bauteil",
             "es-ES": "Pieza de pared náutica",
             "it-IT": "Pezzo di muro in stile nautico",
-            "nl-NL": "Nautisch Stuk Muur",
+            "nl-NL": "Nautisch stuk muur",
             "sv-SE": "Nautisk väggdel",
             "cs-CZ": "Mořská zeď",
             "ko-KR": "해상 벽 조각",

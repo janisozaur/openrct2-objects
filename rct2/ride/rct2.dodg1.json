@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|DODG1   |202805C0",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "dodgems",
@@ -47,6 +48,7 @@
     "strings": {
         "name": {
             "en-GB": "Dodgems",
+            "en-US": "Bumper Cars",
             "fr-FR": "Autos tamponneuses",
             "de-DE": "Autoskooter",
             "es-ES": "Coches de choque",
@@ -58,11 +60,13 @@
             "zh-TW": "碰碰車",
             "cs-CZ": "Autodrom",
             "ja-JP": "ダージャムズ",
+            "nb-NO": "Radiobiler",
             "pl-PL": "Unikajki",
             "ru-RU": "Кар"
         },
         "description": {
             "en-GB": "Self-drive electric dodgem cars",
+            "en-US": "Self-driven electric bumper cars",
             "fr-FR": "Autos tamponneuses électriques",
             "de-DE": "Selbstgesteuerte elektrische Autoskooter",
             "es-ES": "Coches de choque eléctricos autopropulsados",

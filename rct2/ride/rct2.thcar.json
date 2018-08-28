@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|THCAR   |45DFCE16",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
         "type": "air_powered_vertical_rc",
@@ -79,9 +80,7 @@
             "zh-CN": "气压式垂直过山车",
             "zh-TW": "氣壓式垂直飛車",
             "pt-BR": "Trens Montanha Vertical de Propulsão Hidráulica",
-            "ar-EG": "Air Powered Vertical Coaster Trains",
             "cs-CZ": "Svislá dráha na stlačený vzduch",
-            "en-US": "Air Powered Vertical Coaster Trains",
             "ja-JP": "エアーパワード・バーティカル・コースター",
             "pl-PL": "Pneumatyczna kolejka pionowa",
             "ru-RU": "Воздушные горки"

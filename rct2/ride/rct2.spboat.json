@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|SPBOAT  |1057649F",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "splash_boats",
@@ -12,7 +13,7 @@
         ],
         "tabScale": 0.5,
         "playSplashSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
@@ -86,6 +87,7 @@
             "pt-BR": "Splash",
             "cs-CZ": "Cákající lodě",
             "ja-JP": "スプラッシュ・ボート",
+            "nb-NO": "Splashbåter",
             "pl-PL": "Pluskołódki",
             "ru-RU": "Лодки"
         },

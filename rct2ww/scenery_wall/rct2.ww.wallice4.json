@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0113|WALLICE4|EC0B5598",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -17,7 +18,7 @@
             "de-DE": "Eiswand",
             "es-ES": "Pared de hielo",
             "it-IT": "Parete di ghiaccio",
-            "nl-NL": "IJsmuren",
+            "nl-NL": "IJsmuur",
             "sv-SE": "Isvägg",
             "zh-CN": "冰墙",
             "cs-CZ": "Ledová stěna",

@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA23|JAILXX19|B7DDB24C",
+    "sourceGame": "rct2tt",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -18,7 +19,7 @@
             "de-DE": "Gefängniszaun",
             "es-ES": "Valla de prisión",
             "it-IT": "Recinto della prigione",
-            "nl-NL": "Hek Gevangenis",
+            "nl-NL": "Gevangenishek",
             "sv-SE": "Stängsel, fängelse",
             "ko-KR": "감옥 울타리",
             "zh-TW": "監獄柵欄",

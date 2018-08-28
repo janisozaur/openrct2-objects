@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0713|WPALM03 |0512FBF3",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -17,7 +18,7 @@
             "de-DE": "Cabanawand-Bauteil",
             "es-ES": "Pieza de pared de cabaña",
             "it-IT": "Pezzo di parete di capanna da spiaggia",
-            "nl-NL": "Stuk Muur Hut",
+            "nl-NL": "Stuk muur Hut",
             "sv-SE": "Väggdel till stuga",
             "zh-CN": "小屋墙面一片",
             "cs-CZ": "Stěna chaty",

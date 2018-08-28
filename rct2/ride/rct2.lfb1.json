@@ -3,12 +3,13 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|LFB1    |202DF350",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "log_flume",
         "category": "water",
         "playSplashSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["dark_brown", "black", "black"]
@@ -63,7 +64,7 @@
         "name": {
             "en-GB": "Logs",
             "fr-FR": "Bûches",
-            "de-DE": "Baumstammkanal",
+            "de-DE": "Baumstämme",
             "es-ES": "Leños de agua",
             "it-IT": "Canale con i tronchi",
             "nl-NL": "Boomstammen",
@@ -72,9 +73,7 @@
             "zh-CN": "原木溪谷",
             "zh-TW": "原木溪谷",
             "pt-BR": "Troncos",
-            "ar-EG": "Logs",
             "cs-CZ": "Divoká řeka",
-            "en-US": "Logs",
             "ja-JP": "ログ・フリューム",
             "pl-PL": "Jazda flisacka",
             "ru-RU": "Ущелье"

@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188786|LAMP4   |B7287F97",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "footpath_item",
     "properties": {
         "isLamp": true,
@@ -30,7 +31,8 @@
             "cs-CZ": "Lampa",
             "ja-JP": "ランプ",
             "pl-PL": "Lampa",
-            "ru-RU": "Фонарь"
+            "ru-RU": "Фонарь",
+            "ar-EG": "مصباح"
         }
     }
 }

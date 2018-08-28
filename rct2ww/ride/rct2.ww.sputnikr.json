@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0910|SPUTNIKR|8EA42112",
+    "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
         "type": "mini_suspended_rc",
@@ -50,9 +51,7 @@
             "nl-NL": "Spoetnikkarretjes",
             "sv-SE": "Flygande Sputnik",
             "zh-CN": "人造卫星悬吊飞行设施",
-            "ar-EG": "Sputnik Cars",
             "cs-CZ": "Sputnik",
-            "en-US": "Sputnik Cars",
             "ko-KR": "스푸트니크 차량",
             "pl-PL": "Kolejka sputnikowa",
             "pt-BR": "Carros Sputnik",

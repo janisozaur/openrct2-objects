@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0613|WSKYSC01|937CF5E1",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -17,7 +18,7 @@
             "de-DE": "Metallwolkenkratzer Set 2 - Wand-Bauteil",
             "es-ES": "Pieza de pared del set de metal 2 del rascacielos",
             "it-IT": "Pezzo di parete di grattacielo metallico, gruppo 2",
-            "nl-NL": "Metaal Set 2 Stuk Muur voor Wolkenkrabber",
+            "nl-NL": "Metaal Set 2 stuk muur voor Wolkenkrabber",
             "sv-SE": "Väggdel till metallskrapa 2",
             "zh-CN": "摩天大楼金属合金设定二面墙",
             "cs-CZ": "Kovový set mrakodrapu 1 - stěna",

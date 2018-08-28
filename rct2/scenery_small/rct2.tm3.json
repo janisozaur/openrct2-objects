@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188E81|TM3     |21DD3993",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "scenery_small",
     "properties": {
         "price": 16,
@@ -10,6 +11,7 @@
         "cursor": "CURSOR_TREE_DOWN",
         "height": 70,
         "sceneryGroup": "SCGTREES",
+        "isTree": true,
         "shape": "4/4",
         "requiresFlatSurface": true
     },

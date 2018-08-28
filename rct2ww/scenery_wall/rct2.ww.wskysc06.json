@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0613|WSKYSC06|C4E4CA8D",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -17,7 +18,7 @@
             "de-DE": "Wolkenkratzerwand-Bauteil",
             "es-ES": "Pieza de pared de rascacielos",
             "it-IT": "Pezzo di parete di grattacielo",
-            "nl-NL": "Stuk Muur Wolkenkrabber",
+            "nl-NL": "Stuk muur Wolkenkrabber",
             "sv-SE": "Väggdel till skyskrapa",
             "zh-CN": "高楼大厦墙面",
             "cs-CZ": "Kovový mrakodrap - výtah",

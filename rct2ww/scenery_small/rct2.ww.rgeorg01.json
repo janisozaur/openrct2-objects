@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0911|RGEORG01|E6866C96",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -23,7 +24,7 @@
             "de-DE": "Georgianisches Dachende-Bauteil 1",
             "es-ES": "Pieza final de tejado georgiano 1",
             "it-IT": "Pezzo di orlo di tetto georgiano 1",
-            "nl-NL": "Eindstuk dak in Georgische stijl 1",
+            "nl-NL": "Eindstuk dak in Georgiaanse stijl 1",
             "sv-SE": "Slutdel för georgianskt tak 1",
             "cs-CZ": "Gregoriánská střecha 7",
             "ko-KR": "조지아식 지붕 끄트머리 조각 1",

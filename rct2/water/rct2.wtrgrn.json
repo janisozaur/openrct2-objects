@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188089|WTRGRN  |E5856EC6",
+    "sourceGame": "rct2",
     "objectType": "water",
     "properties": {
         "palettes": {
@@ -385,7 +386,8 @@
             "cs-CZ": "Zelená voda",
             "ja-JP": "緑色の水",
             "pl-PL": "Zielona woda",
-            "ru-RU": "Зелёная вода"
+            "ru-RU": "Зелёная вода",
+            "ar-EG": "مياة خضراء"
         }
     }
 }

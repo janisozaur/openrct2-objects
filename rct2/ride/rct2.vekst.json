@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C80|VEKST   |4F5F2BAE",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "ride",
     "properties": {
         "type": "lay_down_rc",
@@ -95,9 +96,7 @@
             "zh-CN": "横卧式过山车",
             "zh-TW": "橫臥式雲霄飛車",
             "pt-BR": "Trens Montanha-Russa Deitada",
-            "ar-EG": "Lay-down Roller Coaster Trains",
             "cs-CZ": "Horská dráha \"na ležáka\"",
-            "en-US": "Lay-down Roller Coaster Trains",
             "ja-JP": "レイダウン・コースター",
             "pl-PL": "Leżąca kolejka",
             "ru-RU": "Лежачие горки"

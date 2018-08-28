@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0611|SBWIND01|89BFD04A",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -26,7 +27,7 @@
             "de-DE": "Erosionsfelsenwand - Konkave Ecke",
             "es-ES": "Esquina de pared cóncava esculpida por el viento",
             "it-IT": "Angolo di muro concavo eroso dal vento",
-            "nl-NL": "Door Wind gevormde Concave Hoek Muur",
+            "nl-NL": "Door wind gevormde Concave Hoek Muur",
             "sv-SE": "Vindformat konkavt vägghörn",
             "zh-CN": "风蚀造形凹面的墙转角",
             "cs-CZ": "Roh větrem ošlehané stěny",

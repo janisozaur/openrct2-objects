@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188F84|BN8     |DFE20EFA",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "footpath_banner",
     "properties": {
         "scrollingMode": 26,
@@ -26,7 +27,8 @@
             "cs-CZ": "Zasněžená cedule",
             "ja-JP": "雪をかぶったバナー",
             "pl-PL": "Drogowskaz ośnieżony",
-            "ru-RU": "Знак 'Снег'"
+            "ru-RU": "Знак 'Снег'",
+            "ar-EG": "علامة مغطاة بالثلج"
         }
     }
 }

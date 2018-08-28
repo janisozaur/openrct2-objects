@@ -3,11 +3,12 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|4X4     |0DB8676C",
+    "sourceGame": "rct2",
     "objectType": "ride",
     "properties": {
         "type": "car_ride",
         "category": "gentle",
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
@@ -82,6 +83,7 @@
             "pt-BR": "Caminhões Monstros",
             "cs-CZ": "Monster Trucks",
             "ja-JP": "モンスタートラック",
+            "nb-NO": "Monster Trucker",
             "nl-NL": "Monstertrucks",
             "pl-PL": "Potworne pikapy",
             "ru-RU": "Грузовики"

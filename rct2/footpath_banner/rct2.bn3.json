@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188F84|BN3     |19B94BF5",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "footpath_banner",
     "properties": {
         "scrollingMode": 9,
@@ -26,7 +27,8 @@
             "cs-CZ": "Cedule v klasickém stylu",
             "ja-JP": "クラシカル風のバナー",
             "pl-PL": "Drogowskaz klasyczny",
-            "ru-RU": "Знак 'Классика'"
+            "ru-RU": "Знак 'Классика'",
+            "ar-EG": "علامة النمط الكلاسيكي"
         }
     }
 }

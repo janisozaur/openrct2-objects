@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C82|SALOON  |B1E6545E",
+    "sourceGame": "rct2",
     "objectType": "scenery_large",
     "properties": {
         "price": 140,
@@ -48,7 +49,7 @@
             "sv-SE": "Vildavästernbar",
             "ko-KR": "주점",
             "zh-CN": "餐厅",
-            "zh-TW": "?廳",
+            "zh-TW": "廳",
             "cs-CZ": "Salón",
             "ja-JP": "酒場",
             "pl-PL": "Saloon",

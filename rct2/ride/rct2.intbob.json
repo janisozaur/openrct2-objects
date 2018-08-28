@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188A80|INTBOB  |499CD9EA",
+    "sourceGame": "rct2",
     "objectType": "ride",
     "properties": {
         "type": "bobsleigh_rc",
@@ -57,9 +58,7 @@
             "zh-CN": "飞行旋转",
             "zh-TW": "飛行旋轉",
             "pt-BR": "Trens Bobsleigh (6 assentos)",
-            "ar-EG": "6-seater Bobsleighs",
             "cs-CZ": "Létající zatáčky",
-            "en-US": "6-seater Bobsleighs",
             "ja-JP": "フライング・ターン",
             "pl-PL": "Latające zakręty",
             "ru-RU": "Кружилки"

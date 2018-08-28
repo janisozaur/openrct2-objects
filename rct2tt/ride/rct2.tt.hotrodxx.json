@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA20|HOTRODXX|C6560675",
+    "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "air_powered_vertical_rc",
@@ -79,7 +80,6 @@
             "pt-BR": "Carros Hot Rod",
             "ar-EG": "سيارات الطرق السريعة",
             "cs-CZ": "Hot Rod horská dráha",
-            "en-US": "Hot Rod Cars",
             "pl-PL": "Podrasowane samochody",
             "ru-RU": "Горки-Хотрод"
         },

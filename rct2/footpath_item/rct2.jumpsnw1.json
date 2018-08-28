@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188786|JUMPSNW1|AFE38320",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "footpath_item",
     "properties": {
         "isJumpingFountainSnow": true,
@@ -28,7 +29,8 @@
             "cs-CZ": "Skákající sněhové koule",
             "ja-JP": "ジャンピング雪玉",
             "pl-PL": "Skaczące śnieżki",
-            "ru-RU": "Снежки"
+            "ru-RU": "Снежки",
+            "ar-EG": "كرات الثلج القافزة"
         }
     }
 }

@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F820|OAKBAREL|BB210474",
+    "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "river_rapids",
@@ -11,7 +12,7 @@
             "thrill"
         ],
         "playSplashSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["bright_red", "bright_red", "black"]
@@ -69,7 +70,6 @@
             "pt-BR": "Barris de Carvalho",
             "ar-EG": "براميل السنديان",
             "cs-CZ": "Jízda v dubovém sudu",
-            "en-US": "Oak Barrels",
             "pl-PL": "Przejażdżka w dębowej beczce",
             "ru-RU": "Дубовая Бочка"
         },

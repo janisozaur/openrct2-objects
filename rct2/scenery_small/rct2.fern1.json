@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188D81|FERN1   |B55204A3",
+    "sourceGame": "rct2",
     "objectType": "scenery_small",
     "properties": {
         "price": 14,
@@ -20,7 +21,7 @@
             "de-DE": "Gigantischer Farn",
             "es-ES": "Helecho gigante",
             "it-IT": "Felce gigante",
-            "nl-NL": "Gigantische Varen",
+            "nl-NL": "Gigantische varen",
             "sv-SE": "Jätteormbunke",
             "ko-KR": "대형 양치식물",
             "zh-CN": "巨大的蕨",

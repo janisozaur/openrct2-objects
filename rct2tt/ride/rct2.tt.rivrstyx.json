@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24F820|RIVRSTYX|E701FD53",
+    "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
         "type": "river_rafts",
@@ -10,7 +11,7 @@
             "water",
             "transport"
         ],
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["light_brown", "white", "white"]
@@ -52,9 +53,7 @@
             "ko-KR": "스틱스 강 보트",
             "zh-TW": "冥河",
             "pt-BR": "Barcos Rio Styx",
-            "ar-EG": "River Styx boats",
             "cs-CZ": "Řeka Styx",
-            "en-US": "River Styx boats",
             "pl-PL": "Rzeka Styks",
             "ru-RU": "Стикс"
         },

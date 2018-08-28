@@ -3,6 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0CBD0011|JAPSNOTR|A51AF3D7",
+    "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -10,6 +11,7 @@
         "cursor": "CURSOR_TREE_DOWN",
         "height": 72,
         "sceneryGroup": "SCGTREES",
+        "isTree": true,
         "shape": "4/4",
         "isRotatable": true,
         "hasPrimaryColour": true,

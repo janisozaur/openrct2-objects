@@ -3,6 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188F84|BN5     |E5B28B7D",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "footpath_banner",
     "properties": {
         "scrollingMode": 13,
@@ -26,7 +27,8 @@
             "cs-CZ": "Dřevěná cedule",
             "ja-JP": "木製のバナー",
             "pl-PL": "Drogowskaz drewniany",
-            "ru-RU": "Знак из дерева"
+            "ru-RU": "Знак из дерева",
+            "ar-EG": "علامة خشبية"
         }
     }
 }
