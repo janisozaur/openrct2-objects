@@ -27,13 +27,14 @@
             "de-DE": "Lehmflechtwerk-Dach",
             "es-ES": "Tejado de entramado pintado",
             "it-IT": "Tetto di canne e fango",
-            "nl-NL": "Dak van vlechtwerk van tenen",
+            "nl-NL": "Vitselstekdak",
             "sv-SE": "Flätverk, tak",
             "zh-CN": "泥芭屋顶",
             "cs-CZ": "Hliněná střecha",
             "ko-KR": "초벽 지붕",
             "pl-PL": "Dach z tynkowanej plecionki",
-            "ru-RU": "Крыша"
+            "ru-RU": "Крыша",
+            "pt-BR": "Telhado de Pau a Pique"
         }
     }
 }
