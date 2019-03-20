@@ -15,8 +15,13 @@
     "strings": {
         "name": {
             "en-GB": "Jungle",
+            "it-IT": "Giungla",
             "ko-KR": "정글",
-            "zh-CN": "丛林"
+            "zh-CN": "丛林",
+            "ar-EG": "الادغال",
+            "nb-NO": "Jungel",
+            "hu-HU": "Dzsungel",
+            "es-ES": "Jungla"
         }
     }
 }

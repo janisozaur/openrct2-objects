@@ -15,9 +15,14 @@
     "strings": {
         "name": {
             "en-GB": "Space",
+            "it-IT": "Spazio",
             "nl-NL": "Ruimte",
             "ko-KR": "우주",
-            "zh-CN": "太空"
+            "zh-CN": "太空",
+            "ar-EG": "فضاء",
+            "nb-NO": "Romfart",
+            "hu-HU": "Űrbéli",
+            "es-ES": "Espacial"
         }
     }
 }
