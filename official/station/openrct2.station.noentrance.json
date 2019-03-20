@@ -13,7 +13,7 @@
             "fr-FR": "Pas d'entrée",
             "de-DE": "Kein Eingang",
             "es-ES": "Entrada invisible",
-            "it-IT": "Nessuna entrata",
+            "it-IT": "Senza entrata",
             "nl-NL": "Geen ingang",
             "sv-SE": "Ingen ingång",
             "ko-KR": "입구 없음",
@@ -28,7 +28,8 @@
             "ca-ES": "Sense entrada",
             "fi-FI": "Ei sisäänkäyntiä",
             "hu-HU": "Nincs bejárat",
-            "tr-TR": "Giriş kulübesi yok"
+            "tr-TR": "Giriş kulübesi yok",
+            "nb-NO": "Ingen inngang"
         }
     }
 }
