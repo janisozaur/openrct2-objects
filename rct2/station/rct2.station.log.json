@@ -15,6 +15,7 @@
     "strings": {
         "name": {
             "en-GB": "Log Cabin",
+            "de-DE": "Blockhütte",
             "it-IT": "Capanna di legno",
             "nl-NL": "Blokhut",
             "ko-KR": "통나무",
@@ -22,7 +23,9 @@
             "ar-EG": "كوخ خشبي",
             "nb-NO": "Tømmer",
             "hu-HU": "Fakunyhó",
-            "es-ES": "Troncos de madera"
+            "es-ES": "Troncos de madera",
+            "pt-BR": "Cabine de madeira",
+            "ja-JP": "丸太小屋"
         }
     }
 }

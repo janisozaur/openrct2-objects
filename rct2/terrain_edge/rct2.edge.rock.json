@@ -14,7 +14,9 @@
     "strings": {
         "name": {
             "en-GB": "Rock",
-            "nl-NL": "Rotswand"
+            "de-DE": "Gestein",
+            "nl-NL": "Rotswand",
+            "pt-BR": "Pedra"
         }
     }
 }

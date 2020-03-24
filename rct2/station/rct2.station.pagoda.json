@@ -15,6 +15,7 @@
     "strings": {
         "name": {
             "en-GB": "Pagoda",
+            "de-DE": "Pagode",
             "it-IT": "Pagoda",
             "nl-NL": "Pagode",
             "ko-KR": "탑",
@@ -22,7 +23,9 @@
             "ar-EG": "باغودا",
             "nb-NO": "Pagode",
             "hu-HU": "Pagoda",
-            "es-ES": "Pagoda"
+            "es-ES": "Pagoda",
+            "pt-BR": "Pagode",
+            "ja-JP": "パゴダ"
         }
     }
 }

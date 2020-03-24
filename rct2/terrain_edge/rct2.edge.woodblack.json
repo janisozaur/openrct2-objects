@@ -14,7 +14,9 @@
     "strings": {
         "name": {
             "en-GB": "Wood (black)",
-            "nl-NL": "Zwarte houten palen"
+            "de-DE": "Holz (schwarz)",
+            "nl-NL": "Zwarte houten palen",
+            "pt-BR": "Madeira (preta)"
         }
     }
 }

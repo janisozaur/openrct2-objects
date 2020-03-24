@@ -25,7 +25,9 @@
         "name": {
             "en-GB": "Chequerboard",
             "en-US": "Checkerboard",
-            "nl-NL": "Schaakbord"
+            "de-DE": "Schachbrett",
+            "nl-NL": "Schaakbord",
+            "pt-BR": "Tabuleiro de xadrez"
         }
     }
 }

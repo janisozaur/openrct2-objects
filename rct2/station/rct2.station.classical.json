@@ -15,6 +15,7 @@
     "strings": {
         "name": {
             "en-GB": "Classical / Roman",
+            "de-DE": "Klassisch / Römisch",
             "it-IT": "Classico / Romano",
             "nl-NL": "Klassiek / Romeins",
             "ko-KR": "고전 / 로마",
@@ -22,7 +23,9 @@
             "ar-EG": "كلاسيكية / رومانية",
             "nb-NO": "Klassisk / romersk",
             "hu-HU": "Klasszikus / római",
-            "es-ES": "Clásico / Romano"
+            "es-ES": "Clásico / Romano",
+            "pt-BR": "Clássica / Romana",
+            "ja-JP": "ローマ"
         }
     }
 }

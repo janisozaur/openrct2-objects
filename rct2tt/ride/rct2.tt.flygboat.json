@@ -72,9 +72,9 @@
     "images": ["$RCT2:OBJDATA/FLYGBOAT.DAT[0..1762]"],
     "strings": {
         "name": {
-            "en-GB": "Flying boats",
+            "en-GB": "Flying Boats",
             "fr-FR": "Bateau volant",
-            "de-DE": "Fliegendes Schiff-Attraktion",
+            "de-DE": "Fliegende Schiffe",
             "es-ES": "Viaje en el bote volante",
             "it-IT": "Corsa delle navi volanti",
             "nl-NL": "Vliegende boten",

@@ -72,7 +72,7 @@
         "name": {
             "en-GB": "San Francisco Trams",
             "fr-FR": "Tram de San Francisco",
-            "de-DE": "San Francisco-Straßenbahn",
+            "de-DE": "San-Francisco-Straßenbahnen",
             "es-ES": "Tranvía de San Francisco",
             "it-IT": "Tram di San Francisco",
             "nl-NL": "Trams uit San Francisco",
@@ -89,7 +89,7 @@
         "description": {
             "en-GB": "Replica trams",
             "fr-FR": "Répliques de trams",
-            "de-DE": "Nachgebaute Straßenbahnwaggons",
+            "de-DE": "Nachgebaute Straßenbahnen",
             "es-ES": "Réplica de tranvías",
             "it-IT": "Riproduzioni di tram",
             "nl-NL": "Replica's van oude trams uit San Francisco",
@@ -98,6 +98,7 @@
             "cs-CZ": "Repliky tramvají",
             "ko-KR": "전차 모형",
             "pl-PL": "Replika tramwaju",
+            "pt-BR": "Bondes réplica",
             "ru-RU": "Трамвайчики"
         },
         "capacity": {
@@ -112,6 +113,7 @@
             "cs-CZ": "10 míst v každém voze",
             "ko-KR": "차량당 10명의 승객",
             "pl-PL": "10 pasażerów na wagonik",
+            "pt-BR": "10 passageiros por bonde",
             "ru-RU": "10 пассажиров"
         }
     }

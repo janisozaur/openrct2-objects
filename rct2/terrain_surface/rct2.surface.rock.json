@@ -17,7 +17,9 @@
     "strings": {
         "name": {
             "en-GB": "Rock",
-            "nl-NL": "Rotsen"
+            "de-DE": "Gestein",
+            "nl-NL": "Rotsen",
+            "pt-BR": "Pedra"
         }
     }
 }

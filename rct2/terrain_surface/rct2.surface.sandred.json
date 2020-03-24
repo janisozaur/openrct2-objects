@@ -18,7 +18,9 @@
     "strings": {
         "name": {
             "en-GB": "Sand (Red)",
-            "nl-NL": "Rood zand"
+            "de-DE": "Sand (rot)",
+            "nl-NL": "Rood zand",
+            "pt-BR": "Areia (vermelha)"
         }
     }
 }

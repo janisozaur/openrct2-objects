@@ -49,8 +49,9 @@
     "strings": {
         "name": {
             "en-GB": "Football Trains",
+            "en-US": "Soccer Ball Trains",
             "fr-FR": "Coupe du monde",
-            "de-DE": "Fußballbahn",
+            "de-DE": "Fußballzüge",
             "es-ES": "Atracción Fútbol",
             "it-IT": "Calcio",
             "nl-NL": "Voetbalkarretjes",
@@ -66,6 +67,7 @@
         },
         "description": {
             "en-GB": "Suspended roller coaster train consisting of football-shaped cars able to swing freely as the train goes around corners",
+            "en-US": "Suspended roller coaster train consisting of soccer ball-shaped cars able to swing freely as the train goes around corners",
             "fr-FR": "Train de montagnes russes suspendu constitué de voitures en forme de ballon de football qui se balancent librement dans les virages",
             "de-DE": "Hängender Achterbahnzug mit Wagen, die Fußbällen nachempfunden sind und in Kurven frei schwingen können",
             "es-ES": "Tren suspendido consistente en vagones con forma de balón de fútbol, los cuales se balancean libremente al tomar las curvas",
@@ -76,6 +78,7 @@
             "cs-CZ": "Zavěšená horská dráha s vozy připomínající fotbalové míče, které se houpají v zatáčkách",
             "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 풋볼 모양의 서스펜디드 롤러코스터 차량",
             "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie piłek, które bujają się swobodnie na zakrętach",
+            "pt-BR": "Trem de montanha russa suspensa que consiste em um vagão com formato de bola de futebol americano capaz de balançar livremente conforme o trem faz curvas",
             "ru-RU": "Подвешенные горки на футбольную тему"
         },
         "capacity": {
@@ -90,6 +93,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
+            "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 человека на вагон"
         }
     }
