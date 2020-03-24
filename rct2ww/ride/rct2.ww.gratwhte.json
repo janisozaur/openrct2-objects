@@ -108,7 +108,7 @@
         "name": {
             "en-GB": "Great White Shark Trains",
             "fr-FR": "Grand requin blanc",
-            "de-DE": "Weißer Hai-Bahn",
+            "de-DE": "Weißhai-Züge",
             "es-ES": "Atracción Gran Tiburón Blanco",
             "it-IT": "Il grande squalo bianco",
             "nl-NL": "Haaientrein",
@@ -123,7 +123,7 @@
             "ru-RU": "Белая акула"
         },
         "description": {
-            "en-GB": "Trains with shoulder restraints, in the shape of a Great White Shark",
+            "en-GB": "Trains with shoulder restraints, in the shape of a great white shark",
             "fr-FR": "Train spacieux disposant d'une simple barre de protection au niveau des jambes",
             "de-DE": "Geräumige Züge mit einfachen Beckenhalterungen",
             "es-ES": "Trenes espaciosos con simples barras de sujeción",
@@ -151,6 +151,7 @@
             "cs-CZ": "6 míst v každém voze",
             "ko-KR": "차량당 6명의 승객",
             "pl-PL": "6 pasażerów na wagonik",
+            "pt-BR": "6 passageiros por vagão",
             "ru-RU": "6 человек на вагон"
         }
     }

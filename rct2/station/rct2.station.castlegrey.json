@@ -16,6 +16,7 @@
         "name": {
             "en-GB": "Castle (Grey)",
             "en-US": "Castle (Gray)",
+            "de-DE": "Burg (grau)",
             "it-IT": "Castello (grigio)",
             "nl-NL": "Kasteel (grijs)",
             "ko-KR": "성 (회색)",
@@ -23,7 +24,9 @@
             "ar-EG": "قلعة (رمادي)",
             "nb-NO": "Slott (grå)",
             "hu-HU": "Kastély (szürke)",
-            "es-ES": "Castillo (gris)"
+            "es-ES": "Castillo (gris)",
+            "pt-BR": "Castelo (cinza)",
+            "ja-JP": "城 (灰色)"
         }
     }
 }

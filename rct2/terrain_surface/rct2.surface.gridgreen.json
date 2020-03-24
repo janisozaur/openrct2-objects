@@ -16,7 +16,9 @@
     "strings": {
         "name": {
             "en-GB": "Grid (Green)",
-            "nl-NL": "Groen raster"
+            "de-DE": "Gitter (grün)",
+            "nl-NL": "Groen raster",
+            "pt-BR": "Malha (verde)"
         }
     }
 }

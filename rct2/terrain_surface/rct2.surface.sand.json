@@ -18,7 +18,9 @@
     "strings": {
         "name": {
             "en-GB": "Sand",
-            "nl-NL": "Zand"
+            "de-DE": "Sand",
+            "nl-NL": "Zand",
+            "pt-BR": "Areia"
         }
     }
 }

@@ -18,7 +18,9 @@
     "strings": {
         "name": {
             "en-GB": "Sand (Brown)",
-            "nl-NL": "Bruin zand"
+            "de-DE": "Sand (braun)",
+            "nl-NL": "Bruin zand",
+            "pt-BR": "Areia (marrom)"
         }
     }
 }

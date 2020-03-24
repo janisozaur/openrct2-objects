@@ -65,9 +65,9 @@
     "images": ["$RCT2:OBJDATA/LONDONBS.DAT[0..802]"],
     "strings": {
         "name": {
-            "en-GB": "Routemaster buses",
+            "en-GB": "Routemaster Buses",
             "fr-FR": "Tram bus londonien",
-            "de-DE": "Londoner Bus-Straßenbahn",
+            "de-DE": "Londoner Busse",
             "es-ES": "Tranvía de autobús londinense",
             "it-IT": "Tram di Londra",
             "nl-NL": "Londense bus",
@@ -108,6 +108,7 @@
             "cs-CZ": "10 míst v každém voze",
             "ko-KR": "차량당 10명의 승객",
             "pl-PL": "10 pasażerów na wagonik",
+            "pt-BR": "10 passageiros por carro",
             "ru-RU": "10 пассажиров в вагон"
         }
     }

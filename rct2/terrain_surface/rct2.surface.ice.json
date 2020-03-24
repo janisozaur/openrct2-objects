@@ -18,7 +18,9 @@
     "strings": {
         "name": {
             "en-GB": "Ice",
-            "nl-NL": "IJs"
+            "de-DE": "Eis",
+            "nl-NL": "IJs",
+            "pt-BR": "Gelo"
         }
     }
 }

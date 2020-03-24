@@ -16,7 +16,9 @@
     "strings": {
         "name": {
             "en-GB": "Grid (Yellow)",
-            "nl-NL": "Geel raster"
+            "de-DE": "Gitter (gelb)",
+            "nl-NL": "Geel raster",
+            "pt-BR": "Malha (amarela)"
         }
     }
 }

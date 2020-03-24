@@ -17,7 +17,9 @@
     "strings": {
         "name": {
             "en-GB": "Martian",
-            "nl-NL": "Buitenaards"
+            "de-DE": "Mars",
+            "nl-NL": "Buitenaards",
+            "pt-BR": "Marciana"
         }
     }
 }

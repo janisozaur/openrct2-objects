@@ -13,6 +13,7 @@
     "strings": {
         "name": {
             "en-GB": "Plain",
+            "de-DE": "Schlicht",
             "it-IT": "Standard",
             "nl-NL": "Standaard",
             "ko-KR": "일반",
@@ -20,7 +21,9 @@
             "ar-EG": "عادي",
             "nb-NO": "Standard",
             "hu-HU": "Alap",
-            "es-ES": "Típica"
+            "es-ES": "Típica",
+            "pt-BR": "Padrão",
+            "ja-JP": "普通"
         }
     }
 }

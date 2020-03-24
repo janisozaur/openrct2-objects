@@ -18,7 +18,9 @@
     "strings": {
         "name": {
             "en-GB": "Dirt",
-            "nl-NL": "Modder"
+            "de-DE": "Erde",
+            "nl-NL": "Modder",
+            "pt-BR": "Sujeira"
         }
     }
 }
