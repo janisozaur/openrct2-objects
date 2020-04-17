@@ -23,13 +23,14 @@
             "de-DE": "Tempeldach-Bauteil",
             "es-ES": "Pieza de tejado de templo",
             "it-IT": "Pezzo di tetto di tempio",
-            "nl-NL": "Stuk Tempeldak",
+            "nl-NL": "Stuk tempeldak",
             "sv-SE": "Tempeltakdel",
             "cs-CZ": "Střecha chrámu",
             "ko-KR": "사원 지붕 조각",
             "pl-PL": "Segment dachu świątyni",
             "ru-RU": "Деталь крыши",
-            "pt-BR": "Peça de Telhado de Templo"
+            "pt-BR": "Peça de Telhado de Templo",
+            "ja-JP": "寺院の屋"
         }
     }
 }

@@ -21,19 +21,20 @@
     "images": ["$RCT2:OBJDATA/RSHOGI3.DAT[0..3]"],
     "strings": {
         "name": {
-            "en-GB": "Shogi Roof",
-            "fr-FR": "Toit shogi",
-            "de-DE": "Shogi-Dach",
-            "es-ES": "Tejado Shogi",
-            "it-IT": "Tetto di Shogi",
-            "nl-NL": "Dak gedecoreerd als Japans schaakspel",
-            "sv-SE": "Shogi-tak",
-            "zh-CN": "将棋屋顶",
+            "en-GB": "Japanese Roof",
+            "fr-FR": "Toit japonais",
+            "de-DE": "Japanisches Dach",
+            "es-ES": "Tejado Shōji",
+            "it-IT": "Tetto di Shōji",
+            "nl-NL": "Japans dak",
+            "sv-SE": "Shōji-tak",
+            "zh-CN": "障子屋顶",
+            "ja-JP": "日本的な屋",
             "cs-CZ": "Čínská střecha",
-            "ko-KR": "장기 지붕",
+            "ko-KR": "쇼지 지붕",
             "pl-PL": "Dach japoński",
             "ru-RU": "Крыша",
-            "pt-BR": "Telhado Shogi"
+            "pt-BR": "Telhado Shōji"
         }
     }
 }

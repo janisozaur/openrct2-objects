@@ -76,14 +76,15 @@
             "de-DE": "Schlossturm-Eckstück",
             "es-ES": "Esquina de torre de castillo",
             "it-IT": "Tratto di curva della torre del Castello",
-            "nl-NL": "Bochtstuk Kasteeltoren",
+            "nl-NL": "Bochtstuk kasteeltoren",
             "sv-SE": "Tornhörn, slott",
             "ko-KR": "성탑 구석 조각",
             "zh-TW": "城樓牆角塊",
             "pt-BR": "Peça de Canto de Torre de Castelo",
             "cs-CZ": "Hradní věž - roh",
             "pl-PL": "Narożnik wieży zamkowej",
-            "ru-RU": "Деталь башни замка"
+            "ru-RU": "Деталь башни замка",
+            "ja-JP": "城の塔の片隅の部分"
         }
     }
 }

@@ -21,7 +21,7 @@
         "name": {
             "en-GB": "Tudor Roof Piece 1",
             "fr-FR": "Pan de toit Tudor 1",
-            "de-DE": "Tudor Dach-Bauteil 1",
+            "de-DE": "Tudor-Dach-Bauteil 1",
             "es-ES": "Pieza de tejado Tudor 1",
             "it-IT": "Pezzo di tetto Tudor 1",
             "nl-NL": "Stuk dak in Tudorstijl 1",
@@ -30,7 +30,8 @@
             "ko-KR": "튜더식 지붕 조각 1",
             "pl-PL": "Elżbietański segment dachu 1",
             "ru-RU": "Деталь крыши",
-            "pt-BR": "Peça de Telhado Tudor 1"
+            "pt-BR": "Peça de Telhado Tudor 1",
+            "ja-JP": "チューダーの屋1"
         }
     }
 }

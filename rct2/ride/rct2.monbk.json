@@ -58,10 +58,10 @@
             "ru-RU": "Моноциклы"
         },
         "description": {
-            "en-GB": "Special bicycles run on a steel monorail track, propelled by the pedalling of the riders",
-            "en-US": "Special bicycles run on a steel monorail track, propelled by the pedaling of the riders",
+            "en-GB": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
+            "en-US": "Special bicycles that run on a monorail track, propelled by the pedaling of the riders",
             "fr-FR": "Des vélos spéciaux parcourent une voie monorail métallique",
-            "de-DE": "Spezielle Fahrräder fahren auf einer einschienigen Stahlstrecke und werden von den Passagieren angetrieben, indem sie in die Pedale treten",
+            "de-DE": "Spezielle Fahrräder, die auf einer Einschienenstrecke fahren und von den Passagieren mit Pedalen angetrieben werden",
             "es-ES": "Bicicletas especiales que recorren sobre un monorraíl, impulsadas por pedaleo",
             "it-IT": "Speciali biciclette viaggiano lungo un tracciato monorotaia d'acciaio, spinti dalle pedalate dei passeggeri",
             "nl-NL": "Speciale fietsen rijden over een stalen monorail, voortbewogen door het trappen van de passagiers.",
@@ -69,7 +69,7 @@
             "ko-KR": "탑승자가 직접 페달을 밟으면 강철 모노레일 트랙 위를 움직이는 특별한 자전거",
             "zh-CN": "特殊的脚踏车在单轨铁路轨道上运行,由乘客自行脚踏前进",
             "zh-TW": "特殊的腳踏車在單軌鐵路軌道上運行,由乘客自行腳踏前進",
-            "pt-BR": "Bicicletas especiais que correm numa pista de aço de monotrilho, propulsionadas pelas pedaladas dos passageiros",
+            "pt-BR": "Bicicletas especiais que correm numa pista  de monotrilho, propulsionadas pelas pedaladas dos passageiros",
             "cs-CZ": "Po ocelové kolejnici jezdí speciální jízdní kola, ovládané šlapáním návštěvníků",
             "ja-JP": "乗客がペダルで漕ぐ、スチールのモノレールコースを走る特殊な自転車の乗物です",
             "pl-PL": "Specjalne rowery jadące po stalowej jednoszynowej trasie, napędzane przez pedałujących pasażerów",

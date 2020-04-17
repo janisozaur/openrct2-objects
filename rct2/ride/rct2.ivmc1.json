@@ -61,9 +61,9 @@
             "ru-RU": "Обратные поворот. горки"
         },
         "description": {
-            "en-GB": "Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops",
+            "en-GB": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
             "fr-FR": "Des voitures individuelles placées sous la voie zigzaguent à travers les virages en épingle à cheveux et les chutes abruptes",
-            "de-DE": "Einzelne Wagen fahren unter einer Zickzack-Strecke mit Haarnadelkurven und steilen Gefällen",
+            "de-DE": "Einzelne Achterbahnwagen, die für Strecken mit Haarnadelkurven und steilen Gefällen ausgelegt sind",
             "es-ES": "Vagones individuales corren bajo una vía zig-zageante",
             "it-IT": "Carrozze individuali corrono sotto un tracciato a zig-zag con curve a U e ripide discese",
             "nl-NL": "Losse karretjes hangen onder een zigzaggende baan met haarspeldbochten en scherpe afdalingen.",
@@ -71,7 +71,7 @@
             "ko-KR": "급회전과 급경사를 가진 지그재그 모양의 트랙 아래를 달리는 개별 차량",
             "zh-CN": "反转过山车在U型回转及垂直向下急转轨道上运行",
             "zh-TW": "反轉飛車在U型迴轉及垂直向下急轉軌道上運行",
-            "pt-BR": "Vagões individuais correm abaixo de uma pista de zigue-zague com curvas fechadas e quedas íngremes",
+            "pt-BR": "Vagões individuais construídos para pistas de zigue-zague com curvas fechadas e quedas íngremes",
             "cs-CZ": "Vozy jsou zavěšeny na kolejnicích s ostrými zatáčkami a ostrými pády",
             "ja-JP": "ジグザグのコースの下に個別の車両があり、ヘアピンや急降下を進むコースターです",
             "pl-PL": "Pojedyncze wagoniki jeżdżą podwieszone pod torem z ostrymi zakrętami i gwałtownymi spadkami",

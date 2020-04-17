@@ -23,13 +23,14 @@
             "de-DE": "Beschädigte Statue",
             "es-ES": "Estatua rota",
             "it-IT": "Statua rotta",
-            "nl-NL": "Kapot Beeld",
+            "nl-NL": "Kapot beeld",
             "sv-SE": "Trasig staty",
             "cs-CZ": "Rozbitá socha",
             "ko-KR": "부서진 동상",
             "pl-PL": "Uszkodzony posąg",
             "ru-RU": "Статуэтка",
-            "pt-BR": "Estátua Quebrada"
+            "pt-BR": "Estátua Quebrada",
+            "ja-JP": "壊れた像"
         }
     }
 }
