@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Art Deco Corner with Windows",
             "fr-FR": "Virage art déco avec fenêtres",
-            "de-DE": "Art Déco Ecke mit Fenstern",
+            "de-DE": "Art Déco - Ecke mit Fenstern",
             "es-ES": "Esquina Art Decó con ventanas",
             "it-IT": "Curva in art decò con finestre",
             "nl-NL": "Bocht met vensters Art Deco",
@@ -34,7 +34,8 @@
             "pt-BR": "Canto de Art Déco com Janelas",
             "cs-CZ": "Art Deco roh s okny",
             "pl-PL": "Narożnik z oknami art deco",
-            "ru-RU": "Угол Арт-Деко с окнами"
+            "ru-RU": "Угол Арт-Деко с окнами",
+            "ja-JP": "アールデコ・コーナー　窓付き"
         }
     }
 }

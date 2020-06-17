@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 50,
+        "removalPrice": -44,
         "cursor": "CURSOR_HOUSE_DOWN",
         "tiles": [
             {
@@ -50,7 +50,8 @@
             "ko-KR": "칙칙한 대형 탑 상단",
             "pl-PL": "Płowa wieża - szczyt",
             "ru-RU": "Деталь башни",
-            "pt-BR": "Topo de Grande Torre Gris"
+            "pt-BR": "Topo de Grande Torre Gris",
+            "ja-JP": "壊れた巨大タワーの頂上"
         }
     }
 }

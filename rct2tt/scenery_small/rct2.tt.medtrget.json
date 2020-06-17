@@ -25,14 +25,15 @@
             "de-DE": "Bogenschießen-Zielscheibe",
             "es-ES": "Campo de tira",
             "it-IT": "Bersaglio del tiro con l'arco",
-            "nl-NL": "Blazoen Boogschieten",
+            "nl-NL": "Schietschijf",
             "sv-SE": "Piltavla",
             "ko-KR": "화살 과녁",
             "zh-TW": "箭靶",
             "pt-BR": "Alvo de Flechas",
             "cs-CZ": "Terč",
             "pl-PL": "Tarcza łucznicza",
-            "ru-RU": "Мишень"
+            "ru-RU": "Мишень",
+            "ja-JP": "アーチェリーの"
         }
     }
 }

@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 78,
+        "removalPrice": -70,
         "cursor": "CURSOR_STATUE_DOWN",
         "tiles": [
             {
@@ -55,7 +55,8 @@
             "ko-KR": "금부처상",
             "pl-PL": "Złoty Budda",
             "ru-RU": "Золотой Будда",
-            "pt-BR": "Buda Dourado"
+            "pt-BR": "Buda Dourado",
+            "ja-JP": "黄金の仏"
         }
     }
 }

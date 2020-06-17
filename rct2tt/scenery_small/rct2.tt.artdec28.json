@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Art Deco Roof Section",
             "fr-FR": "Section de toit art déco",
-            "de-DE": "Art Déco Dachabschnitt",
+            "de-DE": "Art Déco - Dachabschnitt",
             "es-ES": "Sección de tejado Art Decó",
             "it-IT": "Sezione di tetto in art decò",
             "nl-NL": "Dakstuk Art Deco",
@@ -34,7 +34,8 @@
             "pt-BR": "Seção de Telhado de Art Déco",
             "cs-CZ": "Art Deco střešní část",
             "pl-PL": "Segment dachu art deco",
-            "ru-RU": "Крыша Арт-Деко"
+            "ru-RU": "Крыша Арт-Деко",
+            "ja-JP": "アールデコ・天井部分"
         }
     }
 }

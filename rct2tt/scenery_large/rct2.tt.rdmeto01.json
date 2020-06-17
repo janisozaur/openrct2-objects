@@ -31,7 +31,7 @@
         "name": {
             "en-GB": "Red Meteor Crater Corner",
             "fr-FR": "Virage de cratère météoritique rouge",
-            "de-DE": "Roter Meteoritenkrater-Ecke",
+            "de-DE": "Roter Meteoritenkrater - Ecke",
             "es-ES": "Esquina de cráter de meteorito rojo",
             "it-IT": "Curva del cratere meteoritico rosso",
             "nl-NL": "Bocht rode meteoorkrater",
@@ -41,7 +41,8 @@
             "pt-BR": "Canto de Cratera de Meteoro Vermelho",
             "cs-CZ": "Kráter - roh",
             "pl-PL": "Narożnik czerwonego krateru po meteorycie",
-            "ru-RU": "Часть кратера"
+            "ru-RU": "Часть кратера",
+            "ja-JP": "赤い隕石火口 コーナー"
         }
     }
 }

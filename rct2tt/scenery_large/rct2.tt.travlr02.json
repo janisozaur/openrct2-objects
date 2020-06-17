@@ -35,13 +35,15 @@
             "de-DE": "Mikrobus",
             "es-ES": "Microbús",
             "it-IT": "Minibus",
+            "nl-NL": "Hippiebus",
             "sv-SE": "Hippiebuss",
             "ko-KR": "마이크로버스",
             "zh-TW": "小型巴士",
             "pt-BR": "Microônibus",
             "cs-CZ": "Microbus",
             "pl-PL": "Mikrobus",
-            "ru-RU": "Микробус"
+            "ru-RU": "Микробус",
+            "ja-JP": "マイクロバス"
         }
     }
 }

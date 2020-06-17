@@ -29,7 +29,7 @@
         "name": {
             "en-GB": "Dark Age Village Roof with Chimney",
             "fr-FR": "Toit avec cheminée du village médiéval",
-            "de-DE": "Dach mit Kamin Mittelalterliches Dorf",
+            "de-DE": "Mittelalterdorf - Dach mit Kamin",
             "es-ES": "Tejado con chimenea de pueblo medieval",
             "it-IT": "Tetto con camino del villaggio dell'Età Oscura",
             "nl-NL": "Dak met schoorsteen middeleeuws dorp",
@@ -39,7 +39,8 @@
             "pt-BR": "Telhado com Chaminé de Vila da Idade Média",
             "cs-CZ": "Starodávná vesnice - střecha s komínem",
             "pl-PL": "Miasteczko średniowieczne - dach z kominem",
-            "ru-RU": "Средневековая крыша с трубой"
+            "ru-RU": "Средневековая крыша с трубой",
+            "ja-JP": "暗黒時代の村の屋根（煙突付き）"
         }
     }
 }

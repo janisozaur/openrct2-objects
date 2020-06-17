@@ -30,17 +30,18 @@
         "name": {
             "en-GB": "Super Computer Large CPU",
             "fr-FR": "Grande unité centrale de super ordinateur",
-            "de-DE": "Supercomputer Große Zentraleinheit",
+            "de-DE": "Supercomputer - Große Zentraleinheit",
             "es-ES": "Gran CPU de superordenador",
             "it-IT": "Grande CPU del super computer",
-            "nl-NL": "Grote CPU Supercomputer",
+            "nl-NL": "Grote CPU supercomputer",
             "sv-SE": "Stor processor till superdator",
             "ko-KR": "수퍼 컴퓨터 대형 CPU",
             "zh-TW": "超級電腦大CPU",
             "pt-BR": "CPU Grande de Supercomputador",
             "cs-CZ": "Superpočítač",
             "pl-PL": "Olbrzymi procesor superkomputera",
-            "ru-RU": "ЦПУ Компьютера"
+            "ru-RU": "ЦПУ Компьютера",
+            "ja-JP": "スーパーコンピューター　大きなCPU"
         }
     }
 }

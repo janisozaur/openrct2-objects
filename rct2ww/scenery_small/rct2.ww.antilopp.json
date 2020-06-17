@@ -20,7 +20,7 @@
         "name": {
             "en-GB": "Antelope Pair",
             "fr-FR": "Couple d'antilopes",
-            "de-DE": "Antilope (Paar)",
+            "de-DE": "Antilopenpaar",
             "es-ES": "Pareja de antílopes",
             "it-IT": "Coppia di antilopi",
             "nl-NL": "Paar Antilopen",
@@ -30,7 +30,8 @@
             "ko-KR": "영양 한 쌍",
             "pl-PL": "Para antylop",
             "ru-RU": "Пара антилоп",
-            "pt-BR": "Par de Antílopes"
+            "pt-BR": "Par de Antílopes",
+            "ja-JP": "レイヨウ（ペア）"
         }
     }
 }

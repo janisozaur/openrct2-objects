@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Small Angled Mammoth Fence",
             "fr-FR": "Clôture à mammouths peu courbée",
-            "de-DE": "Kleiner Abgewinkelter Mammutzaun",
+            "de-DE": "Kleiner abgewinkelter Mammutzaun",
             "es-ES": "Pequeña valla angulosa de mamut",
             "it-IT": "Piccola recinzione di mammut ad angolo",
             "nl-NL": "Mammoethek onder kleine hoek",
@@ -34,7 +34,8 @@
             "pt-BR": "Cerca de Mamute Inclinada Pequena",
             "cs-CZ": "Malý nahnutý mamutí plot",
             "pl-PL": "Mały zakrzywiony płot mamuci",
-            "ru-RU": "Ограда"
+            "ru-RU": "Ограда",
+            "ja-JP": "小さな尖ったマンモスのフェンス"
         }
     }
 }

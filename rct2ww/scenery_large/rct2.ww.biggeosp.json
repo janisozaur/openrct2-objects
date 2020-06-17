@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 82,
+        "removalPrice": -77,
         "cursor": "CURSOR_STATUE_DOWN",
         "tiles": [
             {
@@ -55,7 +55,8 @@
             "ko-KR": "대형 구",
             "pl-PL": "Wielka bryła",
             "ru-RU": "Геосфера",
-            "pt-BR": "Grande Geosfera"
+            "pt-BR": "Grande Geosfera",
+            "ja-JP": "大きな地球圏"
         }
     }
 }

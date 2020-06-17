@@ -30,17 +30,18 @@
         "name": {
             "en-GB": "Super Computer Small CPU",
             "fr-FR": "Petite unité centrale de super ordinateur",
-            "de-DE": "Supercomputer Kleine Zentraleinheit",
+            "de-DE": "Supercomputer - Kleine Zentraleinheit",
             "es-ES": "Pequeña CPU de superordenador",
             "it-IT": "Piccola CPU del super computer",
-            "nl-NL": "Kleine CPU Supercomputer",
+            "nl-NL": "Kleine CPU supercomputer",
             "sv-SE": "Liten processor till superdator",
             "ko-KR": "수퍼 컴퓨터 소형 CPU",
             "zh-TW": "超級電腦小CPU",
             "pt-BR": "CPU Pequena de Supercomputador",
             "cs-CZ": "Superpočítač",
             "pl-PL": "Mały procesor superkomputera",
-            "ru-RU": "ЦПУ Компьютера"
+            "ru-RU": "ЦПУ Компьютера",
+            "ja-JP": "スーパーコンピューター　小さなCPU"
         }
     }
 }

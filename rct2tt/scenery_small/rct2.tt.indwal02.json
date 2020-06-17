@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Industrial Wall Set",
             "fr-FR": "Série de murs industriels",
-            "de-DE": "Industriemauer Set",
+            "de-DE": "Industriemauer-Set",
             "es-ES": "Conjunto de muros industriales",
             "it-IT": "Serie di muri di New York",
             "nl-NL": "Muren Industrie",
@@ -34,7 +34,8 @@
             "pt-BR": "Conjunto de Parede Industrial",
             "cs-CZ": "Industriální stěny - set",
             "pl-PL": "Element muru przemysłowego",
-            "ru-RU": "Стена"
+            "ru-RU": "Стена",
+            "ja-JP": "工業的な壁セット"
         }
     }
 }

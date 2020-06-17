@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Industrial Wall Corner Piece",
             "fr-FR": "Section de mur de virage industriel",
-            "de-DE": "Industriemauer Eckstück",
+            "de-DE": "Industriemauer-Eckstück",
             "es-ES": "Sección de esquina de muro industrial",
             "it-IT": "Tratto di curva del muro industriale",
             "nl-NL": "Muur Bochtstuk Industrie",
@@ -34,7 +34,8 @@
             "pt-BR": "Peça de Canto de Parede Industrial",
             "cs-CZ": "Industriální roh",
             "pl-PL": "Narożnik muru przemysłowego",
-            "ru-RU": "Угловая стена"
+            "ru-RU": "Угловая стена",
+            "ja-JP": "工業的な壁のコーナー部分"
         }
     }
 }

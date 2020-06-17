@@ -42,7 +42,7 @@
         "name": {
             "en-GB": "Art Deco Corner with Railings",
             "fr-FR": "Virage art déco avec grille",
-            "de-DE": "Art Déco Ecke mit Geländer",
+            "de-DE": "Art Déco - Ecke mit Geländer",
             "es-ES": "Esquina Art Decó con balaustrada",
             "it-IT": "Curva in art decò con ringhiere",
             "nl-NL": "Bocht met railing Art Deco",
@@ -52,7 +52,8 @@
             "pt-BR": "Canto de Art Déco com Grades",
             "cs-CZ": "Art Deco roh se zábradlím",
             "pl-PL": "Narożnik z balustradą art deco",
-            "ru-RU": "Угол Арт-Деко с оградой"
+            "ru-RU": "Угол Арт-Деко с оградой",
+            "ja-JP": "アールデコ・コーナー　ガードレール付き"
         }
     }
 }

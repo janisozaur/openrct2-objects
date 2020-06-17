@@ -6,9 +6,9 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
-        "cursor": "CURSOR_STATUE_DOWN",
+        "price": 144,
+        "removalPrice": -114,
+        "cursor": "CURSOR_HOUSE_DOWN",
         "isPhotogenic": true,
         "tiles": [
             {
@@ -81,7 +81,7 @@
         "name": {
             "en-GB": "Great Wall Of China Turret Corner",
             "fr-FR": "Tourelle en coin de la Grande Muraille de Chine",
-            "de-DE": "Große Mauer von China - Ecktürmchen",
+            "de-DE": "Chinesische Mauer - Ecktürmchen",
             "es-ES": "Esquina de torre de la Gran Muralla China",
             "it-IT": "Sezione diritta della Grande Muraglia Cinese con torre",
             "nl-NL": "Hoek-Koepel Grote Chinese Muur",
@@ -92,7 +92,7 @@
             "pl-PL": "Wielki Mur Chiński - wieżyczka narożna",
             "ru-RU": "Фрагмент Великой Стены",
             "pt-BR": "Canto de Torre da Grande Muralha da China",
-            "ja-JP": "万里の長城 Turret Corner"
+            "ja-JP": "万里の長城 小塔（コーナー）"
         }
     }
 }

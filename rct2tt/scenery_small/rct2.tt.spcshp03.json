@@ -31,14 +31,15 @@
             "de-DE": "Raumschiff Solartrakt",
             "es-ES": "Sección solar de nave espacial",
             "it-IT": "Sezione solare della navicella spaziale",
-            "nl-NL": "Zongedeelte Ruimteschip",
+            "nl-NL": "Zongedeelte ruimteschip",
             "sv-SE": "Solkraftssektion, rymdskepp",
             "ko-KR": "우주선 태양열 섹션",
             "zh-TW": "太空船太陽能區",
             "pt-BR": "Seção Solar de Nave Espacial",
             "cs-CZ": "Vesmírná loď - solární sekce",
             "pl-PL": "Statek kosmiczny - sekcja baterii",
-            "ru-RU": "Секция корабля"
+            "ru-RU": "Секция корабля",
+            "ja-JP": "宇宙船　ソーラー部分"
         }
     }
 }

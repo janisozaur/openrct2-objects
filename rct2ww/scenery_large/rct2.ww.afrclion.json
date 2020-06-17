@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 62,
+        "removalPrice": -56,
         "cursor": "CURSOR_STATUE_DOWN",
         "tiles": [
             {
@@ -39,7 +39,8 @@
             "pl-PL": "Lew",
             "ru-RU": "Лев",
             "pt-BR": "Leão",
-            "ja-JP": "ライオン"
+            "ja-JP": "ライオン",
+            "fr-FR": "Lion"
         }
     }
 }

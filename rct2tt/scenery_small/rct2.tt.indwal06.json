@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Industrial Roof Corner Piece",
             "fr-FR": "Section de toit de virage industriel",
-            "de-DE": "Industriedach Eckstück",
+            "de-DE": "Industriedach-Eckstück",
             "es-ES": "Sección de esquina de tejado industrial",
             "it-IT": "Tratto di curva dei tetti di New York",
             "nl-NL": "Dak Bochtstuk Industrie",
@@ -34,7 +34,8 @@
             "pt-BR": "Peça de Canto de Telhado Industrial",
             "cs-CZ": "Industriální střecha",
             "pl-PL": "Narożnik dachu przemysłowego",
-            "ru-RU": "Угол индустриальной крыши"
+            "ru-RU": "Угол индустриальной крыши",
+            "ja-JP": "工業的な屋根 コーナー部分"
         }
     }
 }

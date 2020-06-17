@@ -34,14 +34,15 @@
             "de-DE": "Antike Segelyacht",
             "es-ES": "Punto de regata",
             "it-IT": "Yacht in navigazione ricorrente",
-            "nl-NL": "Periode zeiljacht",
+            "nl-NL": "Historisch zeiljacht",
             "sv-SE": "Tidsenlig yacht",
             "ko-KR": "기간 항해 요트",
             "zh-TW": "區間快艇",
             "pt-BR": "Iate de Época",
             "cs-CZ": "Stará plachetnice",
             "pl-PL": "Jacht z epoki",
-            "ru-RU": "Яхта"
+            "ru-RU": "Яхта",
+            "ja-JP": "1920時代のヨット"
         }
     }
 }

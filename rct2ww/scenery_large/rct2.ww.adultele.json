@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 86,
+        "removalPrice": -78,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
         "tiles": [
@@ -49,7 +49,7 @@
             "de-DE": "Erwachsener Indischer Elefant",
             "es-ES": "Elefante Indio adulto",
             "it-IT": "Elefante indiano adulto",
-            "nl-NL": "Volwassen Indische Olifant",
+            "nl-NL": "Volwassen Indische olifant",
             "sv-SE": "Fullvuxen indisk elefant",
             "zh-CN": "印度成象",
             "cs-CZ": "Dospělý slon",

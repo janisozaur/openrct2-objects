@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": 150,
+        "price": 36,
+        "removalPrice": 28,
         "cursor": "CURSOR_TREE_DOWN",
         "isPhotogenic": true,
         "sceneryGroup": "SCGTREES",
@@ -84,7 +84,8 @@
             "ko-KR": "정글의 나무 1",
             "pl-PL": "Drzewo z dżungli 1",
             "ru-RU": "Дерево",
-            "pt-BR": "Árvore Selvagem 1"
+            "pt-BR": "Árvore Selvagem 1",
+            "ja-JP": "ジャングルの木 1"
         }
     }
 }

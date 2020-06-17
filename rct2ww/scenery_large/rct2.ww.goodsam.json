@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 86,
+        "removalPrice": -78,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
         "tiles": [
@@ -91,7 +91,8 @@
             "ko-KR": "좋은 사무라이",
             "pl-PL": "Dobry samuraj",
             "ru-RU": "Самурай",
-            "pt-BR": "Samurai Bondoso"
+            "pt-BR": "Samurai Bondoso",
+            "ja-JP": "善良な侍"
         }
     }
 }

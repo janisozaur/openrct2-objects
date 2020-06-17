@@ -30,14 +30,15 @@
             "de-DE": "Raumschiff Schwerkrafttrakt",
             "es-ES": "Sección de gravedad de nave espacial",
             "it-IT": "Sezione di gravità della navicella spaziale",
-            "nl-NL": "Zwaartekrachtgedeelte Ruimteschip",
+            "nl-NL": "Zwaartekrachtgedeelte ruimteschip",
             "sv-SE": "Gravitationssektion, rymdskepp",
             "ko-KR": "우주선 중력 섹션",
             "zh-TW": "太空船重力區",
             "pt-BR": "Seção de Gravidade de Nave Espacial",
             "cs-CZ": "Vesmírná loď - gravitační sekce",
             "pl-PL": "Statek kosmiczny - sekcja grawitacji",
-            "ru-RU": "Секция корабля"
+            "ru-RU": "Секция корабля",
+            "ja-JP": "宇宙船　重力部分"
         }
     }
 }

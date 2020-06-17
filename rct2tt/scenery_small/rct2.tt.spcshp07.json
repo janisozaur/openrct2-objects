@@ -30,14 +30,15 @@
             "de-DE": "Raumschiff Kontrolldeck",
             "es-ES": "Sección de control de nave espacial",
             "it-IT": "Ponte di comando della navicella spaziale",
-            "nl-NL": "Commandodek Ruimteschip",
+            "nl-NL": "Commandodek ruimteschip",
             "sv-SE": "Kommandobrygga, rymdskepp",
             "ko-KR": "우주선 컨트롤 덱",
             "zh-TW": "太空船駕駛艙",
             "pt-BR": "Convés de Controle de Nave Espacial",
             "cs-CZ": "Vesmírná loď - kontrolní panel",
             "pl-PL": "Statek kosmiczny - sterownia",
-            "ru-RU": "Секция корабля"
+            "ru-RU": "Секция корабля",
+            "ja-JP": "宇宙船　コントロールデック"
         }
     }
 }

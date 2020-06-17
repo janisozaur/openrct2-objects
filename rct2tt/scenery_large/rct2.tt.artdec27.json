@@ -44,7 +44,7 @@
         "name": {
             "en-GB": "Art Deco Top Corner Section",
             "fr-FR": "Section de virage haut art déco",
-            "de-DE": "Art Déco oberer Eckabschnitt",
+            "de-DE": "Art Déco - oberer Eckabschnitt",
             "es-ES": "Sección superior de esquina Art Decó",
             "it-IT": "Sezione di curva superiore in art decò",
             "nl-NL": "Bovenbochtstuk Art Deco",
@@ -54,7 +54,8 @@
             "pt-BR": "Seção de Topo de Canto de Art Déco",
             "cs-CZ": "Art Deco vrchní rohová část",
             "pl-PL": "Górny narożnik art deco",
-            "ru-RU": "Верхний угол Арт-Деко"
+            "ru-RU": "Верхний угол Арт-Деко",
+            "ja-JP": "アールデコ・コーナー上部"
         }
     }
 }

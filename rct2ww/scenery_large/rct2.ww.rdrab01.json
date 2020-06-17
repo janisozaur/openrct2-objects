@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 46,
+        "removalPrice": -40,
         "cursor": "CURSOR_HOUSE_DOWN",
         "tiles": [
             {
@@ -50,7 +50,8 @@
             "ko-KR": "칙칙한 대형 탑 중간 조각",
             "pl-PL": "Płowa wieża - część środkowa",
             "ru-RU": "Деталь башни",
-            "pt-BR": "Seção Intermediária de Grande Torre Gris"
+            "pt-BR": "Seção Intermediária de Grande Torre Gris",
+            "ja-JP": "壊れた巨大タワーの中間部分"
         }
     }
 }

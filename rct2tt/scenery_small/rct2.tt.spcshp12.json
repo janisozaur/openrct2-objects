@@ -30,14 +30,15 @@
             "de-DE": "Raumschiff Wissenschaftstrakt",
             "es-ES": "Sección científica de nave espacial",
             "it-IT": "Sezione scientifica della navicella spaziale",
-            "nl-NL": "Wetenschapgedeelte Ruimteschip",
+            "nl-NL": "Wetenschapgedeelte ruimteschip",
             "sv-SE": "Forskningssektion, rymdskepp",
             "ko-KR": "우주선 과학 섹션",
             "zh-TW": "太空船科學研究區",
             "pt-BR": "Seção de Ciência de Nave Espacial",
             "cs-CZ": "Vesmírná loď - vědecká sekce",
             "pl-PL": "Statek kosmiczny - sekcja naukowa",
-            "ru-RU": "Секция корабля"
+            "ru-RU": "Секция корабля",
+            "ja-JP": "宇宙船　理系部分"
         }
     }
 }

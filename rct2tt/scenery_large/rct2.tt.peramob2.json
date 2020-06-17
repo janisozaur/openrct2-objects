@@ -35,14 +35,15 @@
             "de-DE": "Antikes Automobil",
             "es-ES": "Punto de coches",
             "it-IT": "Automobile ricorrente",
-            "nl-NL": "Periode automobiel",
+            "nl-NL": "Oldtimer",
             "sv-SE": "Tidsenlig bil",
             "ko-KR": "시대적인 자동차",
             "zh-TW": "區間摩托車",
             "pt-BR": "Automóvel de Época",
             "cs-CZ": "Staré auto",
             "pl-PL": "Samochód z epoki",
-            "ru-RU": "Автомобиль"
+            "ru-RU": "Автомобиль",
+            "ja-JP": "1920時代の車"
         }
     }
 }

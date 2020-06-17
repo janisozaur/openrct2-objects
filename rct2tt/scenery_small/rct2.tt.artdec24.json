@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Art Deco Wall with Railings",
             "fr-FR": "Mur art déco avec grille",
-            "de-DE": "Art Déco Mauer mit Geländer",
+            "de-DE": "Art Déco - Mauer mit Geländer",
             "es-ES": "Muro Art Decó con balaustrada",
             "it-IT": "Muro in art decò con ringhiere",
             "nl-NL": "Muur met railing Art Deco",
@@ -34,7 +34,8 @@
             "pt-BR": "Parede de Art Déco com Grades",
             "cs-CZ": "Art Deco stěna se zábradlím",
             "pl-PL": "Mur z balustradą art deco",
-            "ru-RU": "Стена Арт-Деко с оградой"
+            "ru-RU": "Стена Арт-Деко с оградой",
+            "ja-JP": "アールデコ・ガードレール付きの壁"
         }
     }
 }

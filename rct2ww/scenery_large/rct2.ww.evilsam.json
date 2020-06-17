@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 86,
+        "removalPrice": -78,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
         "tiles": [
@@ -91,7 +91,8 @@
             "ko-KR": "나쁜 사무라이",
             "pl-PL": "Zły samuraj",
             "ru-RU": "Злой самурай",
-            "pt-BR": "Samurai Malvado"
+            "pt-BR": "Samurai Malvado",
+            "ja-JP": "邪悪な侍"
         }
     }
 }

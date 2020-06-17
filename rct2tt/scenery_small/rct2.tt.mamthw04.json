@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Large Angled Mammoth Fence",
             "fr-FR": "Clôture à mammouths très courbée",
-            "de-DE": "Großer Abgewinkelter Mammutzaun",
+            "de-DE": "Großer abgewinkelter Mammutzaun",
             "es-ES": "Gran valla angulosa de mamut",
             "it-IT": "Grande recinzione di mammut ad angolo",
             "nl-NL": "Mammoethek onder grote hoek",
@@ -34,7 +34,8 @@
             "pt-BR": "Cerca de Mamute Inclinada Grande",
             "cs-CZ": "Velký nahnutý mamutí plot",
             "pl-PL": "Wielki zakrzywiony płot mamuci",
-            "ru-RU": "Ограда"
+            "ru-RU": "Ограда",
+            "ja-JP": "巨大な尖ったマンモスのフェンス"
         }
     }
 }

@@ -6,9 +6,9 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
-        "cursor": "CURSOR_STATUE_DOWN",
+        "price": 204,
+        "removalPrice": -168,
+        "cursor": "CURSOR_HOUSE_DOWN",
         "tiles": [
             {
                 "x": 0,
@@ -55,7 +55,8 @@
             "ko-KR": "에펠 탑",
             "pl-PL": "Wieża Eiffela",
             "ru-RU": "Башня",
-            "pt-BR": "Torre Eiffel"
+            "pt-BR": "Torre Eiffel",
+            "ja-JP": "エッフェル塔"
         }
     }
 }

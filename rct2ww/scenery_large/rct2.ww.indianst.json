@@ -6,32 +6,36 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 96,
+        "removalPrice": -88,
         "cursor": "CURSOR_STATUE_DOWN",
         "tiles": [
             {
                 "x": 0,
                 "y": 0,
                 "clearance": 168,
+                "hasSupports": true,
                 "walls": 9
             },
             {
                 "x": 0,
                 "y": 32,
                 "clearance": 168,
+                "hasSupports": true,
                 "walls": 3
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 168,
+                "hasSupports": true,
                 "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 168,
+                "hasSupports": true,
                 "walls": 2
             }
         ]

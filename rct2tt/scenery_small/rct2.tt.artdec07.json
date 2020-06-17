@@ -24,7 +24,7 @@
         "name": {
             "en-GB": "Art Deco Corner Section",
             "fr-FR": "Section de virage art déco",
-            "de-DE": "Art Déco Eckabschnitt",
+            "de-DE": "Art Déco - Eckabschnitt",
             "es-ES": "Sección de esquina Art Decó",
             "it-IT": "Sezione di curva in art decò",
             "nl-NL": "Bochtstuk Art Deco",
@@ -34,7 +34,8 @@
             "pt-BR": "Seção de Canto de Art Déco",
             "cs-CZ": "Art Deco rohová část",
             "pl-PL": "Narożnik art deco",
-            "ru-RU": "Угловая секция Арт-Деко"
+            "ru-RU": "Угловая секция Арт-Деко",
+            "ja-JP": "アールデコ・コーナー部分"
         }
     }
 }

@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 114,
+        "removalPrice": -82,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
         "tiles": [
@@ -86,7 +86,8 @@
             "pl-PL": "Gejsza",
             "ru-RU": "Гейша",
             "pt-BR": "Gueixa",
-            "ja-JP": "芸者"
+            "ja-JP": "芸者",
+            "fr-FR": "Geisha"
         }
     }
 }

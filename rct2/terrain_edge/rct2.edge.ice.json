@@ -16,7 +16,9 @@
             "en-GB": "Ice",
             "de-DE": "Eis",
             "nl-NL": "IJs",
-            "pt-BR": "Gelo"
+            "pt-BR": "Gelo",
+            "fr-FR": "Glace",
+            "ja-JP": "氷"
         }
     }
 }

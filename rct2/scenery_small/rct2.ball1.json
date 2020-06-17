@@ -18,7 +18,8 @@
     "strings": {
         "name": {
             "en-GB": "American Football",
-            "fr-FR": "Football américain",
+            "fr-FR": "Ballon de football américain",
+            "de-DE": "American Football",
             "es-ES": "Fútbol americano",
             "it-IT": "Pallone da football americano",
             "nl-NL": "American football",

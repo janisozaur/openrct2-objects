@@ -130,7 +130,7 @@
         "name": {
             "en-GB": "Large Red Meteor Crater",
             "fr-FR": "Grand cratère météoritique rouge",
-            "de-DE": "Großer Roter Meteoritenkrater",
+            "de-DE": "Großer roter Meteoritenkrater",
             "es-ES": "Cráter grande de meteorito rojo",
             "it-IT": "Grande cratere meteoritico rosso",
             "nl-NL": "Grote rode meteoorkrater",
@@ -140,7 +140,8 @@
             "pt-BR": "Cratera de Meteoro Vermelho Grande",
             "cs-CZ": "Velký kráter",
             "pl-PL": "Duży czerwony krater po meteorycie",
-            "ru-RU": "Большой кратер"
+            "ru-RU": "Большой кратер",
+            "ja-JP": "巨大な赤い隕石火口"
         }
     }
 }

@@ -6,9 +6,9 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
-        "cursor": "CURSOR_STATUE_DOWN",
+        "price": 28,
+        "removalPrice": -24,
+        "cursor": "CURSOR_HOUSE_DOWN",
         "tiles": [
             {
                 "x": 0,
@@ -39,7 +39,8 @@
             "ko-KR": "대나무 지붕",
             "pl-PL": "Dach bambusowy",
             "ru-RU": "Крыша",
-            "pt-BR": "Telhado de Bambu"
+            "pt-BR": "Telhado de Bambu",
+            "ja-JP": "竹の屋根"
         }
     }
 }

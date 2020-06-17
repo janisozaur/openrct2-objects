@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 260,
+        "removalPrice": -190,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
         "tiles": [
@@ -140,7 +140,8 @@
             "ko-KR": "레이더 접시",
             "pl-PL": "Antena radarowa",
             "ru-RU": "Радар",
-            "pt-BR": "Antena de Radar"
+            "pt-BR": "Antena de Radar",
+            "ja-JP": "レーダーディッシュ"
         }
     }
 }

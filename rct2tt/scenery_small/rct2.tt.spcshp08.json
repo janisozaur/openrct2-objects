@@ -30,14 +30,15 @@
             "de-DE": "Raumschiff Treibstofftrakt",
             "es-ES": "Sección de combustible de nave espacial",
             "it-IT": "Sezione di rifornimento della navicella spaziale",
-            "nl-NL": "Brandstofgedeelte Ruimteschip",
+            "nl-NL": "Brandstofgedeelte ruimteschip",
             "sv-SE": "Bränslesektion, rymdskepp",
             "ko-KR": "우주선 연료 섹션",
             "zh-TW": "太空船燃料區",
             "pt-BR": "Seção de Combustível de Nave Espacial",
             "cs-CZ": "Vesmírná loď - palivová sekce",
             "pl-PL": "Statek kosmiczny - sekcja paliwowa",
-            "ru-RU": "Секция корабля"
+            "ru-RU": "Секция корабля",
+            "ja-JP": "宇宙船　燃料部分"
         }
     }
 }

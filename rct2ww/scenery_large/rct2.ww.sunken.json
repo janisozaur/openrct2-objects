@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 246,
+        "removalPrice": -198,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
         "tiles": [
@@ -140,7 +140,8 @@
             "ko-KR": "침몰선",
             "pl-PL": "Zatopiony statek",
             "ru-RU": "Корабль",
-            "pt-BR": "Navio Afundado"
+            "pt-BR": "Navio Afundado",
+            "ja-JP": "沈没船"
         }
     }
 }

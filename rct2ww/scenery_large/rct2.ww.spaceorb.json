@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
+        "price": 134,
+        "removalPrice": -114,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
         "tiles": [
@@ -91,7 +91,8 @@
             "ko-KR": "천체",
             "pl-PL": "Kosmiczne kule",
             "ru-RU": "Телескоп",
-            "pt-BR": "Orbes Espaciais"
+            "pt-BR": "Orbes Espaciais",
+            "ja-JP": "宇宙のオーブ"
         }
     }
 }
