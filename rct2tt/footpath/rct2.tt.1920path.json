@@ -18,7 +18,7 @@
             "fr-FR": "Allée trottoir",
             "de-DE": "Bürgersteig",
             "es-ES": "Sendero acera",
-            "it-IT": "Sentiero con marciapiede",
+            "it-IT": "Sentiero marciapiede",
             "nl-NL": "Stoep",
             "sv-SE": "Trottoargång",
             "ko-KR": "포장 보도",
@@ -27,7 +27,8 @@
             "cs-CZ": "Chodník",
             "pl-PL": "Chodnik uliczny",
             "ru-RU": "Тротуар",
-            "ja-JP": "サイドワークの歩道"
+            "ja-JP": "サイドワークの歩道",
+            "eo-OO": "Trotuaro"
         }
     }
 }

@@ -22,7 +22,10 @@
             "nl-NL": "Zand",
             "pt-BR": "Areia",
             "ja-JP": "砂",
-            "fr-FR": "Sable"
+            "fr-FR": "Sable",
+            "pl-PL": "Piasek",
+            "ko-KR": "모래",
+            "eo-OO": "Sablo"
         }
     }
 }

@@ -22,7 +22,9 @@
             "nl-NL": "IJs",
             "pt-BR": "Gelo",
             "ja-JP": "氷",
-            "fr-FR": "Glace"
+            "fr-FR": "Glace",
+            "pl-PL": "Lód",
+            "ko-KR": "얼음"
         }
     }
 }

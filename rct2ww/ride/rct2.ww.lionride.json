@@ -117,12 +117,12 @@
             "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
-            "ru-RU": "4 пассажира"
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por aŭto"
         }
     }
 }
