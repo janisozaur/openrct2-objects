@@ -27,7 +27,7 @@
             "en-GB": "Animatronic Police Officer",
             "fr-FR": "Automate : officier de police",
             "de-DE": "Animatronic Polizist",
-            "es-ES": "Animatrónica oficial de policía",
+            "es-ES": "Oficial de policía animatrónico",
             "it-IT": "Animatrone agente di polizia",
             "nl-NL": "Politieagent-animatronic",
             "sv-SE": "Poliskonstapel (animatronisk)",
@@ -37,7 +37,8 @@
             "cs-CZ": "Pohybující se policista",
             "pl-PL": "Mechaniczny policjant",
             "ru-RU": "Полицейский",
-            "ja-JP": "アニマトロニックの警察官"
+            "ja-JP": "アニマトロニックの警察官",
+            "eo-OO": "Animatronika Policisto"
         }
     }
 }

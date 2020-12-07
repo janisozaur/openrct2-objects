@@ -19,7 +19,7 @@
             "en-GB": "Barrel",
             "fr-FR": "Tonneau",
             "de-DE": "Fass",
-            "es-ES": "Tonel",
+            "es-ES": "Barril",
             "it-IT": "Barile",
             "nl-NL": "Vat",
             "sv-SE": "Tunna",
@@ -30,7 +30,8 @@
             "cs-CZ": "Barel",
             "ja-JP": "樽",
             "pl-PL": "Beczułka",
-            "ru-RU": "Бочка"
+            "ru-RU": "Бочка",
+            "eo-OO": "Barelo"
         }
     }
 }

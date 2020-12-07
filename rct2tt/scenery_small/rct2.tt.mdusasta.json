@@ -27,7 +27,7 @@
         "name": {
             "en-GB": "Animatronic Medusa",
             "fr-FR": "Automate : la Méduse",
-            "es-ES": "Animatrónica Medusa",
+            "es-ES": "Medusa animatrónico",
             "it-IT": "Animatrone Medusa",
             "nl-NL": "Medusa-animatronic",
             "sv-SE": "Medusa (animatronisk)",
@@ -37,7 +37,8 @@
             "cs-CZ": "Pohybující se Medúza",
             "pl-PL": "Mechaniczna meduza",
             "ru-RU": "Медуза",
-            "ja-JP": "アニマトロニックのメドゥーサ"
+            "ja-JP": "アニマトロニックのメドゥーサ",
+            "eo-OO": "Animatronika Meduzo"
         }
     }
 }

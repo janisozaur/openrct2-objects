@@ -28,7 +28,7 @@
             "en-GB": "Animatronic Eagle on Cage",
             "fr-FR": "Automate : aigle en cage",
             "de-DE": "Animatronic Adler auf Käfig",
-            "es-ES": "Animatrónica Águila enjaulada",
+            "es-ES": "Águila enjaulada animatrónica",
             "it-IT": "Animatrone aquila in gabbia",
             "nl-NL": "Animatronische adelaar op kooi",
             "sv-SE": "Örn på bur (animatronisk)",
@@ -38,7 +38,8 @@
             "cs-CZ": "Pohybující se orel na kleci",
             "pl-PL": "Mechaniczny orzeł na klatce",
             "ru-RU": "Орёл на клетке",
-            "ja-JP": "アニマトロニックのケージに乗った鷲"
+            "ja-JP": "アニマトロニックのケージに乗った鷲",
+            "eo-OO": "Animatronikaj Aglo sur Kaĝo"
         }
     }
 }

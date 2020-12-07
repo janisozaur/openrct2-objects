@@ -28,7 +28,7 @@
             "en-GB": "Animatronic Clansman",
             "fr-FR": "Automate : membre de guilde",
             "de-DE": "Animatronic Clanmitglied",
-            "es-ES": "Animatrónica hombre del clan",
+            "es-ES": "Hombre del clan animatrónico",
             "it-IT": "Animatrone membro di un clan",
             "nl-NL": "Animatronische Stamgenoot",
             "sv-SE": "Klanmedlem (animatronisk)",
@@ -38,7 +38,8 @@
             "cs-CZ": "Pohybující se člen klanu",
             "pl-PL": "Mechaniczny jaskiniowiec",
             "ru-RU": "Человек",
-            "ja-JP": "アニマトロニックの氏族の男"
+            "ja-JP": "アニマトロニックの氏族の男",
+            "eo-OO": "Animatronika Gentulo"
         }
     }
 }

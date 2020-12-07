@@ -22,7 +22,7 @@
             "en-GB": "Bucket",
             "fr-FR": "Seau",
             "de-DE": "Eimer",
-            "es-ES": "Cubo",
+            "es-ES": "Balde",
             "it-IT": "Secchio",
             "nl-NL": "Emmer",
             "sv-SE": "Hink",
@@ -32,7 +32,8 @@
             "cs-CZ": "Kbelík",
             "pl-PL": "Kubeł",
             "ru-RU": "Сосуд",
-            "ja-JP": "桶"
+            "ja-JP": "桶",
+            "eo-OO": "Sitelo"
         }
     }
 }

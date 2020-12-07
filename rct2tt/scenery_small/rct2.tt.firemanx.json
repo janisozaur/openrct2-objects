@@ -23,7 +23,7 @@
             "en-GB": "Animatronic Fireman",
             "fr-FR": "Automate : pompier",
             "de-DE": "Animatronic Feuerwehrmann",
-            "es-ES": "Animatrónica bombero",
+            "es-ES": "Bombero animatrónico",
             "it-IT": "Animatrone vigile del fuoco",
             "nl-NL": "Brandweermananimatronic",
             "sv-SE": "Brandman (animatronisk)",
@@ -33,7 +33,8 @@
             "cs-CZ": "Pohybující se hasič",
             "pl-PL": "Mechaniczny strażak",
             "ru-RU": "Пожарный",
-            "ja-JP": "アニマトロニックの消防士"
+            "ja-JP": "アニマトロニックの消防士",
+            "eo-OO": "Animatronika Fajrobrigado"
         }
     }
 }

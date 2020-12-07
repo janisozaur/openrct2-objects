@@ -27,7 +27,7 @@
         "name": {
             "en-GB": "Animatronic Stegosaurus",
             "fr-FR": "Automate : stégosaure",
-            "es-ES": "Animatrónica Estegosaurio",
+            "es-ES": "Estegosaurio animatrónico",
             "it-IT": "Animatrone Stegosauro",
             "nl-NL": "Animatronische Stegosaurus",
             "sv-SE": "Stegosaurus (animatronisk)",
@@ -37,7 +37,8 @@
             "cs-CZ": "Pohybující se stegosaurus",
             "pl-PL": "Mechaniczny stegozaur",
             "ru-RU": "Стегозавр",
-            "ja-JP": "アニマトロニックのステゴサウルス"
+            "ja-JP": "アニマトロニックのステゴサウルス",
+            "eo-OO": "Animatronika Stegosaŭro"
         }
     }
 }

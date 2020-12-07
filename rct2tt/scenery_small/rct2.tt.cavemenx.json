@@ -28,7 +28,7 @@
             "en-GB": "Animatronic Caveman lighting Fire",
             "fr-FR": "Automate : homme des cavernes allumant un feu",
             "de-DE": "Animatronic feuermachender Höhlenmensch",
-            "es-ES": "Animatrónica cavernícola haciendo fuego",
+            "es-ES": "Cavernícola haciendo fuego animatrónico",
             "it-IT": "Animatrone cavernicolo che accende un fuoco",
             "nl-NL": "Animatronische vuurmakende holbewoner",
             "sv-SE": "Grottmänniska som gör upp eld (animatronisk)",
@@ -38,7 +38,8 @@
             "cs-CZ": "Pohybující se jeskynní muž zapalující oheň",
             "pl-PL": "Mechaniczny jaskiniowiec rozpalający ogień",
             "ru-RU": "Человек, зажигающий огонь",
-            "ja-JP": "アニマトロニックの火を焚く穴居人"
+            "ja-JP": "アニマトロニックの火を焚く穴居人",
+            "eo-OO": "Animatronika Kavernhomo flamigas Fajron"
         }
     }
 }

@@ -29,7 +29,7 @@
             "en-GB": "Animatronic flapping Pterodactyl",
             "fr-FR": "Automate : ptérodactyle en vol",
             "de-DE": "Animatronic flatternder Pterodaktylus",
-            "es-ES": "Animatrónica Pterodáctilo volador",
+            "es-ES": "Pterodáctilo volador animatrónico",
             "it-IT": "Animatrone Pterodattilo in volo",
             "nl-NL": "Animatronische wiekende Pterodactyl",
             "sv-SE": "Flaxande pterodaktyl (animatronisk)",
@@ -39,7 +39,8 @@
             "cs-CZ": "Pohybující se letící pterodaktyl",
             "pl-PL": "Mechaniczny trzepoczący pterodaktyl",
             "ru-RU": "Птеродактиль",
-            "ja-JP": "アニマトロニックの羽ばたくプテロダクティルス"
+            "ja-JP": "アニマトロニックの羽ばたくプテロダクティルス",
+            "eo-OO": "Animatronika fluganta Pterodaktilo"
         }
     }
 }

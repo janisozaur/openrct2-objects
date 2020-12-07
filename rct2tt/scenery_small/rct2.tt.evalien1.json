@@ -28,7 +28,7 @@
             "en-GB": "Animatronic Evil Alien",
             "fr-FR": "Automate : extraterrestre hostile",
             "de-DE": "Animatronic Böser Außerirdischer",
-            "es-ES": "Animatrónica alienígena malvado",
+            "es-ES": "Alienígena malvado animatrónico",
             "it-IT": "Animatrone alieno nemico",
             "nl-NL": "Animatronisch Slecht Buitenaards Wezen",
             "sv-SE": "Ond utomjording (animatronisk)",
@@ -38,7 +38,8 @@
             "cs-CZ": "Pohybující se ďábelský mimozemšťan",
             "pl-PL": "Mechaniczny zły kosmita",
             "ru-RU": "Инопланетянин",
-            "ja-JP": "アニマトロニックの悪のエイリアン"
+            "ja-JP": "アニマトロニックの悪のエイリアン",
+            "eo-OO": "Animatronika Malbona Eksterterulo"
         }
     }
 }
