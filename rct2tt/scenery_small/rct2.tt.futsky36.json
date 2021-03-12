@@ -13,7 +13,7 @@
         "animationDelay": 3,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -42,7 +42,8 @@
             "cs-CZ": "Mrakodrap ze sopečného skla - dveře",
             "pl-PL": "Wieżowiec z obsydianu - segment drzwi",
             "ru-RU": "Деталь небоскрёба",
-            "ja-JP": "黒曜石　高層ビル ドア部分"
+            "ja-JP": "黒曜石　高層ビル ドア部分",
+            "eo-OO": "Pordoparto de Obsidiana Ĉielskrapanto"
         }
     }
 }

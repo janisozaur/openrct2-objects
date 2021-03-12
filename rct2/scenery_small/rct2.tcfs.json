@@ -10,7 +10,7 @@
         "removalPrice": 15,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 120,
-        "sceneryGroup": "SCGTREES",
+        "sceneryGroup": "rct2.scgtrees",
         "isTree": true,
         "shape": "4/4"
     },
@@ -31,7 +31,8 @@
             "cs-CZ": "Zasněžená Jedle",
             "ja-JP": "雪をかぶったカフカスモミの木",
             "pl-PL": "Ośnieżona kaukaska jodła",
-            "ru-RU": "Заснеженная Кавказская Ель"
+            "ru-RU": "Заснеженная Кавказская Ель",
+            "eo-OO": "Neĝkovrita Kaŭkaza Abioarbo"
         }
     }
 }

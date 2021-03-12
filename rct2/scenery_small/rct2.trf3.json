@@ -10,7 +10,7 @@
         "removalPrice": 10,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 112,
-        "sceneryGroup": "SCGTREES",
+        "sceneryGroup": "rct2.scgtrees",
         "isTree": true,
         "shape": "1/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true
@@ -32,7 +32,8 @@
             "cs-CZ": "Zasněžená jedle nádherná",
             "ja-JP": "雪をかぶった米松",
             "pl-PL": "Ośnieżona daglezja",
-            "ru-RU": "Снежная красная ель"
+            "ru-RU": "Снежная красная ель",
+            "eo-OO": "Neĝkovrita Ruĝa Abioarbo"
         }
     }
 }

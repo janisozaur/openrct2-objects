@@ -13,7 +13,7 @@
         "animationDelay": 3,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -41,7 +41,8 @@
             "cs-CZ": "Superpočítač",
             "pl-PL": "Olbrzymi procesor superkomputera",
             "ru-RU": "ЦПУ Компьютера",
-            "ja-JP": "スーパーコンピューター　大きなCPU"
+            "ja-JP": "スーパーコンピューター　大きなCPU",
+            "eo-OO": "Granda Ĉefprocesoro de Superkomputilo"
         }
     }
 }

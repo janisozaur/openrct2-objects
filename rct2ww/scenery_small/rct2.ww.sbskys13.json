@@ -28,14 +28,15 @@
             "es-ES": "Tejado convexo del rascacielos",
             "it-IT": "Tetto convesso di grattacielo",
             "nl-NL": "Convex dak voor wolkenkrabber",
-            "sv-SE": "Konvexformat tak till skyskrapa",
+            "sv-SE": "Konvext tak till skyskrapa",
             "zh-CN": "摩天大楼凸面体屋顶",
             "cs-CZ": "Konvexní střecha mrakodrapu",
             "ko-KR": "마천루 볼록한 지붕",
             "pl-PL": "Drapacz chmur - dach wypukły",
             "ru-RU": "Деталь крыши",
             "pt-BR": "Telhado Convexo do Arranha-céu",
-            "ja-JP": "高層ビル 凸片 Roof"
+            "ja-JP": "高層ビル 凸片 Roof",
+            "eo-OO": "Konveksa Tegmento de Ĉielskrapanto"
         }
     }
 }

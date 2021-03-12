@@ -13,7 +13,7 @@
         "animationDelay": 3,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -41,7 +41,8 @@
             "cs-CZ": "Mrakodrap ze sopečného skla - okno",
             "pl-PL": "Wieżowiec z obsydianu - ściana z oknem",
             "ru-RU": "Стена небоскрёба с окном",
-            "ja-JP": "黒曜石　高層ビル 壁（窓付き）"
+            "ja-JP": "黒曜石　高層ビル 壁（窓付き）",
+            "eo-OO": "Muro de Obsidiana Ĉielskrapanto kun Fenestro "
         }
     }
 }

@@ -13,7 +13,7 @@
         "animationDelay": 3,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "3/4+D",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -41,7 +41,8 @@
             "cs-CZ": "Pískovcový mrakodrap - střední roh",
             "pl-PL": "Wieżowiec z piaskowca - środkowy narożnik",
             "ru-RU": "Деталь небоскрёба",
-            "ja-JP": "砂岩 高層ビル 中間　コーナー"
+            "ja-JP": "砂岩 高層ビル 中間　コーナー",
+            "eo-OO": "Meza Angulo de Sabloŝtona Ĉielskrapanto"
         }
     }
 }

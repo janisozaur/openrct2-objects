@@ -10,7 +10,7 @@
         "removalPrice": -15,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -29,7 +29,7 @@
             "es-ES": "Tablero",
             "it-IT": "Blocco da scacchiera",
             "nl-NL": "Dambord-basisblok",
-            "sv-SE": "Chackbrädsblock",
+            "sv-SE": "Schackbrädsblock",
             "ko-KR": "체스판 블록",
             "zh-CN": "西洋跳棋棋盘",
             "zh-TW": "西洋跳棋棋盤",
@@ -38,7 +38,7 @@
             "ja-JP": "市松模様ブロック",
             "pl-PL": "Blok szachownicy",
             "ru-RU": "Шахматы",
-            "eo-OO": "Bloko de Tablo por Damludo"
+            "eo-OO": "Bloko de Damludo-Tablo"
         }
     }
 }

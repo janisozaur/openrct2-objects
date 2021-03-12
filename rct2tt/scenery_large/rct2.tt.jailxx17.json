@@ -9,7 +9,7 @@
         "price": 58,
         "removalPrice": -52,
         "cursor": "CURSOR_STATUE_DOWN",
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "tiles": [
             {
                 "x": 0,
@@ -41,7 +41,8 @@
             "cs-CZ": "Věznice - dveře",
             "pl-PL": "Drzwi więzienne",
             "ru-RU": "Дверь",
-            "ja-JP": "刑務所のドア"
+            "ja-JP": "刑務所のドア",
+            "eo-OO": "Pordo de Malliberejo"
         }
     }
 }

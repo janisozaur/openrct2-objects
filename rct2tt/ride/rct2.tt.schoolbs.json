@@ -71,14 +71,15 @@
             "es-ES": "Viaje del autocar escolar",
             "it-IT": "Tram a forma di scuolabus",
             "nl-NL": "Schoolbussen",
-            "sv-SE": "Skolbuss",
+            "sv-SE": "Skolbuss-spårvagnar",
             "ko-KR": "스쿨 버스 라이드",
             "zh-TW": "校車遊樂設施",
             "ja-JP": "スクールバストラム",
             "pt-BR": "Brinquedo de Ônibus Escolar",
             "cs-CZ": "Školní autobus - tramvaj",
             "pl-PL": "Przejażdżka gimbusem",
-            "ru-RU": "Автобус"
+            "ru-RU": "Автобус",
+            "eo-OO": "Lernejo-Buso-Tramoj"
         },
         "description": {
             "en-GB": "Miniature trams themed to look like North American school buses",
@@ -86,15 +87,16 @@
             "de-DE": "Miniaturstraßenbahnen, die Schulbussen nachempfunden sind",
             "es-ES": "Réplica del clásico autocar amarillo",
             "it-IT": "Tram in miniatura a forma di scuolabus nordamericani",
-            "nl-NL": "Replica's van Amerikaanse gele schoolbussen.",
-            "sv-SE": "Spårvagnar som ser ut som gula skolbussar.",
+            "nl-NL": "Replica’s van Amerikaanse gele schoolbussen.",
+            "sv-SE": "Miniatyrspårvagnar som ser ut som nordamerikanska gula skolbussar",
             "ko-KR": "노란 버스 테마의 모형 전차",
             "zh-TW": "仿黃巴士主題列車",
             "ja-JP": "北アメリカのスクールバスをテーマにしたミニチュアトラムです",
             "pt-BR": "Bondes temáticos, réplicas de ônibus escolares",
             "cs-CZ": "Replika amerických žlutých školních autobusů",
             "pl-PL": "Wagoniki w kształcie żółtych autobusów szkolnych",
-            "ru-RU": "Старый жёлтый автобус"
+            "ru-RU": "Старый жёлтый автобус",
+            "eo-OO": "Miniaturaj tramoj temitaj por aspekti kiel nordamerikaj lernejo-busoj"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -111,7 +113,7 @@
             "cs-CZ": "10 míst v každém voze",
             "pl-PL": "10 pasażerów na wagonik",
             "ru-RU": "10 человек",
-            "eo-OO": "Po 10 pasaĝeroj por aŭto"
+            "eo-OO": "Po 10 pasaĝeroj por ĉaro"
         }
     }
 }

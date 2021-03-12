@@ -9,7 +9,7 @@
         "isOpaque": true,
         "height": 4,
         "price": 120,
-        "sceneryGroup": "SCGFENCE"
+        "sceneryGroup": "rct2.scgfence"
     },
     "images": ["$RCT2:OBJDATA/WALLPR32.DAT[0..1]"],
     "strings": {
@@ -28,7 +28,8 @@
             "cs-CZ": "Lanoví",
             "ja-JP": "索具",
             "pl-PL": "Olinowanie",
-            "ru-RU": "Снасти"
+            "ru-RU": "Снасти",
+            "eo-OO": "Rigo"
         }
     }
 }

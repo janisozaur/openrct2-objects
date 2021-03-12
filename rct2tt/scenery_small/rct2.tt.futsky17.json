@@ -10,7 +10,7 @@
         "removalPrice": 0,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "1/4+D",
         "requiresFlatSurface": true,
         "isRotatable": true,
@@ -34,7 +34,8 @@
             "cs-CZ": "Pískovcový mrakodrap - výplň",
             "pl-PL": "Wieżowiec z piaskowca - wypełnienie",
             "ru-RU": "Деталь небоскрёба",
-            "ja-JP": "砂岩 高層ビル 充填材"
+            "ja-JP": "砂岩 高層ビル 充填材",
+            "eo-OO": "Diversaĵo de Sabloŝtona Ĉielskrapanto"
         }
     }
 }

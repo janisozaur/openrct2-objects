@@ -23,7 +23,7 @@
         "name": {
             "en-GB": "Space Ship Cross Section",
             "fr-FR": "Section de croisement du vaisseau spatial",
-            "de-DE": "Raumschiff Kreuzung",
+            "de-DE": "Raumschiff-Kreuzung",
             "es-ES": "Sección de cruce de nave espacial",
             "it-IT": "Sezione trasversale della navicella spaziale",
             "nl-NL": "Kruising ruimteschip",
@@ -34,7 +34,8 @@
             "cs-CZ": "Vesmírná loď - střední část",
             "pl-PL": "Statek kosmiczny - skrzyżowanie",
             "ru-RU": "Секция корабля",
-            "ja-JP": "宇宙船　断面部分"
+            "ja-JP": "宇宙船　断面部分",
+            "eo-OO": "Sekco de Kosmoŝipo"
         }
     }
 }

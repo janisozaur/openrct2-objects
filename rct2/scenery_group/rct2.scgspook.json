@@ -26,7 +26,7 @@
     "images": ["$RCT2:OBJDATA/SCGSPOOK.DAT[0..1]"],
     "strings": {
         "name": {
-            "en-GB": "Spooky Themeing",
+            "en-GB": "Spooky Theming",
             "fr-FR": "Thème Terreur",
             "de-DE": "Spukthema",
             "es-ES": "Temática fantasmal",
@@ -40,7 +40,8 @@
             "cs-CZ": "Strašidelné kulisy",
             "ja-JP": "薄気味悪いテーマ",
             "pl-PL": "Wystrój straszliwy",
-            "ru-RU": "Страшилки"
+            "ru-RU": "Страшилки",
+            "eo-OO": "Timigeta Temo"
         }
     }
 }

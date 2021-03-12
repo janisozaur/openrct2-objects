@@ -10,7 +10,7 @@
         "removalPrice": -10,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -34,7 +34,8 @@
             "cs-CZ": "Věznice - Rozhledna",
             "pl-PL": "Strażnica więzienna",
             "ru-RU": "Смотровая башня",
-            "ja-JP": "刑務所　見張り塔"
+            "ja-JP": "刑務所　見張り塔",
+            "eo-OO": "Gardoturo de Malliberejo"
         }
     }
 }

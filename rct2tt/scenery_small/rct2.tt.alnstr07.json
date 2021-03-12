@@ -13,7 +13,7 @@
         "animationDelay": 3,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -42,7 +42,7 @@
             "pl-PL": "Wieża kosmitów - góra",
             "ru-RU": "Верх башни",
             "ja-JP": "エイリアンタワー（上）",
-            "eo-OO": "Ekstertera Turo-Supro"
+            "eo-OO": "Supro de Ekstertera Turo"
         }
     }
 }

@@ -10,7 +10,7 @@
         "removalPrice": -10,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -34,7 +34,8 @@
             "cs-CZ": "Věznice - schodiště na rozhlednu",
             "pl-PL": "Schody na strażnicę więzienną",
             "ru-RU": "Ступени башни",
-            "ja-JP": "刑務所　見張り塔　階段"
+            "ja-JP": "刑務所　見張り塔　階段",
+            "eo-OO": "Ŝtuparo de Gardoturo de Malliberejo"
         }
     }
 }

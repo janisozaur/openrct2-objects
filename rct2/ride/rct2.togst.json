@@ -110,7 +110,7 @@
             "es-ES": "Montaña Rusa En Pie",
             "it-IT": "Corsa in posiz. eretta",
             "nl-NL": "Staande achtbaantrein",
-            "sv-SE": "Stå-upp-berg- och dalbana",
+            "sv-SE": "Stå-upp-berg- och dalbanevagnar",
             "ko-KR": "스탠드 업 롤러코스터 차량",
             "zh-CN": "站立式过山车",
             "zh-TW": "站立式雲霄飛車",
@@ -120,7 +120,8 @@
             "en-US": "Stand-up Roller Coaster Trains",
             "ja-JP": "立ち乗りローラーコースター",
             "pl-PL": "Stojąca kolejka",
-            "ru-RU": "Стоячие горки"
+            "ru-RU": "Стоячие горки",
+            "eo-OO": "Stariĝantaj Trajnoj de Onda Fervojo"
         },
         "description": {
             "en-GB": "Roller coaster trains in which the riders ride in a standing position",
@@ -129,7 +130,7 @@
             "es-ES": "Una montaña rusa en el que los pasajeros permanecen de pie",
             "it-IT": "Un ottovolante con giro della morte in cui i passeggeri stanno in posizione eretta",
             "nl-NL": "Een achtbaan met loopings waar de passagiers in de karretjes staan.",
-            "sv-SE": "En loopberg- och dalbana där passagerarna åker stående",
+            "sv-SE": "Berg- och dalbanevagnar där passagerarna åker stående",
             "ko-KR": "손님이 일어선 자세로 탑승하는 루핑 롤러코스터",
             "zh-CN": "一座循环式过山车让乘客以站立姿势搭乘",
             "zh-TW": "一座循環式雲霄飛車讓乘客以站立姿勢搭乘",
@@ -137,7 +138,8 @@
             "cs-CZ": "Návštěvníci jedou po horské dráze ve stoje",
             "ja-JP": "立ち乗りの、ループローラーコースターです",
             "pl-PL": "Zapętlona kolejka, w której pasażerowie jadą w pozycji stojącej",
-            "ru-RU": "Кольцевые горки, где люди катаются стоя."
+            "ru-RU": "Кольцевые горки, где люди катаются стоя.",
+            "eo-OO": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -155,7 +157,7 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

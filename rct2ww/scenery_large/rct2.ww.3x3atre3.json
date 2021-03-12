@@ -10,7 +10,7 @@
         "removalPrice": 36,
         "cursor": "CURSOR_TREE_DOWN",
         "isPhotogenic": true,
-        "sceneryGroup": "SCGTREES",
+        "sceneryGroup": "rct2.scgtrees",
         "isTree": true,
         "tiles": [
             {
@@ -86,7 +86,7 @@
             "ru-RU": "Дерево",
             "pt-BR": "Árvore Selvagem com Videira",
             "ja-JP": "ジャングルの木（蔓植付き）",
-            "eo-OO": "Ĝangala Arbo kun Vitoj"
+            "eo-OO": "Ĝangaloarbo kun Vitoj"
         }
     }
 }

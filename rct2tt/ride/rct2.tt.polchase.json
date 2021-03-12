@@ -88,7 +88,7 @@
             "es-ES": "Montaña rusa Persecución policial",
             "it-IT": "Ottovolante inseguimento della polizia",
             "nl-NL": "Politietrein",
-            "sv-SE": "Polisjakt",
+            "sv-SE": "Polisjakt-tåg",
             "ko-KR": "경찰차 차량",
             "zh-TW": "警匪追逐戰雲霄飛車",
             "pt-BR": "Trens Carro de Polícia",
@@ -97,7 +97,8 @@
             "en-US": "Police Car Trains",
             "ja-JP": "パトカー型トレイン",
             "pl-PL": "Policyjny pościg",
-            "ru-RU": "Горки-Погоня"
+            "ru-RU": "Горки-Погоня",
+            "eo-OO": "Policaj-Aŭtoj-Trajnoj"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
@@ -106,14 +107,15 @@
             "es-ES": "Una montaña rusa llena de bucles en la que los viajeros van sentados",
             "it-IT": "Un ottovolante con giro della morte in cui i passeggeri stanno in posizione seduta.",
             "nl-NL": "Achtbaantrein met schootbeugels, die door loopings kan rijden.",
-            "sv-SE": "En berg- och dalbana med loopar där passagerarna åker sittande.",
+            "sv-SE": "Berg- och dalbanetåg utformade som polisbilar, med byglar som klarar av att ta passagerare genom vertikala loopar",
             "ko-KR": "손님이 일어선 자세로 탑승하는 루핑 롤러코스터",
             "zh-TW": "一座由乘客以站立姿態乘座的迴圈式雲霄飛車",
             "pt-BR": "Uma montanha-russa com loop onde os visitantes viajam sentados",
             "cs-CZ": "Horská dráha s loopingy, na které návštěvníci ve vozech sedí",
             "ja-JP": "垂直ループが可能な、膝の安全バーが付いたパトロールカーのようなローラーコースターです",
             "pl-PL": "Kolejka górska z pętlami, w której pasażerowie jadą na siedząco",
-            "ru-RU": "Круговые горки. Люди едут сидя."
+            "ru-RU": "Круговые горки. Люди едут сидя.",
+            "eo-OO": "Trajnoj de onda fervojo kun sinobridoj, kiuj kapablas veturi tra vertikalaj lopoj, kaj estas temitaj por aspeki kiel policajn aŭtojn"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -130,7 +132,7 @@
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 чел. в кабине",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

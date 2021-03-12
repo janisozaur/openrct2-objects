@@ -112,7 +112,7 @@
             "es-ES": "Atracción Gran Tiburón Blanco",
             "it-IT": "Il grande squalo bianco",
             "nl-NL": "Haaientrein",
-            "sv-SE": "Vita hajen",
+            "sv-SE": "Vithajsvagnar",
             "zh-CN": "巨大的大白鲨游乐设施",
             "ja-JP": "ホホジロザメトレイン",
             "cs-CZ": "Žraločí horská dráha",
@@ -129,7 +129,7 @@
             "es-ES": "Trenes espaciosos con simples barras de sujeción",
             "it-IT": "Usa ampie carrozze con semplici cinture di sicurezza",
             "nl-NL": "Trein in de vorm van een grote witte haai.",
-            "sv-SE": "Rymliga vagnar med enkel fastspänning",
+            "sv-SE": "Vithajsformade vagnar med axelbyglar",
             "zh-CN": "有简单护膝的宽敞列车",
             "ja-JP": "ホホジロザメの形をしたローラーコースターです",
             "cs-CZ": "Horská dríha s vozy vybavenými ramenní opěrkou, které připomínají žraloka bílého",
@@ -137,7 +137,7 @@
             "pl-PL": "Przestronne wagoniki z prostymi zabezpieczeniami obejmującymi pasażerów w pasie",
             "pt-BR": "Trens com travas de ombro, moldados como um Grande Tubarão Branco",
             "ru-RU": "Просторные поезда с ремнем безопасности",
-            "eo-OO": "Trajnoj kun ŝultrobridoj formitaj kiel granda blanka ŝarko"
+            "eo-OO": "Trajnoj kun ŝultrobridoj, formitaj kiel granda blanka ŝarko"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -154,7 +154,7 @@
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 человек на вагон",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

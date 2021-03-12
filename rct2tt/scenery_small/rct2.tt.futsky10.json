@@ -13,7 +13,7 @@
         "animationDelay": 3,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -41,7 +41,8 @@
             "cs-CZ": "Pískovcový mrakodrap - zaoblený spodek",
             "pl-PL": "Wieżowiec z piaskowca - pochyła podstawa",
             "ru-RU": "Деталь небоскрёба",
-            "ja-JP": "砂岩 高層ビル　底 スロープ土台"
+            "ja-JP": "砂岩 高層ビル　底 スロープ土台",
+            "eo-OO": "Suba Deklivobazo de Sabloŝtona Ĉielskrapanto"
         }
     }
 }

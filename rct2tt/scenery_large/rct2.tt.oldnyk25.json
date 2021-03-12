@@ -9,7 +9,7 @@
         "price": 28,
         "removalPrice": -22,
         "cursor": "CURSOR_STATUE_DOWN",
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "tiles": [
             {
                 "x": 0,
@@ -42,7 +42,7 @@
         "name": {
             "en-GB": "New York Roof Piece",
             "fr-FR": "Section de toit de New York",
-            "de-DE": "New York Dachstück",
+            "de-DE": "New-York-Dachstück",
             "es-ES": "Sección de tejado de Nueva York",
             "it-IT": "Tratto dei tetti di New York",
             "nl-NL": "Dakstuk New York",

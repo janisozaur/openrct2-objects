@@ -10,7 +10,7 @@
         "removalPrice": -22,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 64,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "2/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -36,7 +36,7 @@
             "pl-PL": "Mur z balustradą art deco",
             "ru-RU": "Стена Арт-Деко с оградой",
             "ja-JP": "アールデコ・ガードレール付きの壁",
-            "eo-OO": "Artdekora Muro kun Balkono"
+            "eo-OO": "Artdekora Muro kun Balustrado"
         }
     }
 }

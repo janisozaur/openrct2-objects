@@ -53,7 +53,7 @@
             "es-ES": "Coche Caída Libre Inversa",
             "it-IT": "Carr. a caduta libera rovesciata",
             "nl-NL": "Wagen voor achterwaartse vrije val",
-            "sv-SE": "Baklänges fallande vagn",
+            "sv-SE": "Omvänt fritt fall-vagn",
             "ko-KR": "역방향 자유낙하 차량",
             "zh-CN": "倒退式自由落体",
             "zh-TW": "倒退式自由落體",
@@ -61,7 +61,8 @@
             "cs-CZ": "Volný pád pozpátku",
             "ja-JP": "逆向きフリーフォールカー",
             "pl-PL": "Wagonik",
-            "ru-RU": "Обратный вагончик"
+            "ru-RU": "Обратный вагончик",
+            "eo-OO": "Ĉaro de Onda Fervojo kun Dorsantaŭa Libera Falo"
         },
         "description": {
             "en-GB": "Large coaster car for the Reverse Freefall Coaster",
@@ -70,7 +71,7 @@
             "es-ES": "Montaña Rusa Invertida",
             "it-IT": "Grande carrozza usata nell'ottovolante a caduta libera rovesciata",
             "nl-NL": "Grote wagen voor de achterwaartstevrijevalachtbaan.",
-            "sv-SE": "Stor vagn för omvänd fritt-fall",
+            "sv-SE": "Stor vagn för bakvänd fritt fall-bana",
             "ko-KR": "역방향 자유낙하 코스터를 위한 대형 코스터 차량",
             "zh-CN": "大型的车辆是倒退式自由落体设施",
             "zh-TW": "大型的車輛是倒退式自由落體設施",
@@ -78,7 +79,8 @@
             "cs-CZ": "Velká dráha s vozem pro volný pád pozpátku",
             "ja-JP": "逆向きフリーフォールのある、大型コースターです",
             "pl-PL": "Duży wagonik dla kolejki o swobodnym spadku",
-            "ru-RU": "Большой вагончик для реверсивных горок"
+            "ru-RU": "Большой вагончик для реверсивных горок",
+            "eo-OO": "Granda ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo"
         },
         "capacity": {
             "en-GB": "8 passengers",

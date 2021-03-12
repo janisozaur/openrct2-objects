@@ -90,7 +90,7 @@
             "es-ES": "Trenes Mineros",
             "it-IT": "Corsa in miniera",
             "nl-NL": "Aangedreven mijntrein",
-            "sv-SE": "Gruvattraktion",
+            "sv-SE": "Eldrivna gruvtåg",
             "ko-KR": "동력 탄광 차량",
             "zh-CN": "矿坑列车",
             "zh-TW": "礦坑列車",
@@ -98,7 +98,8 @@
             "cs-CZ": "Důlní jízda",
             "ja-JP": "マイン・ライド",
             "pl-PL": "Przejażdżka kopalniana",
-            "ru-RU": "Рудник"
+            "ru-RU": "Рудник",
+            "eo-OO": "Ŝaltitaj Mino-Trajnoj"
         },
         "description": {
             "en-GB": "Mine train-themed roller coaster trains that propel themselves",
@@ -107,7 +108,7 @@
             "es-ES": "Trenes mineros autopropulsados corren a lo largo de una vía enredada",
             "it-IT": "Treni a motore da miniera si fanno strada lungo un tracciato pianeggiante ma pieno di curve",
             "nl-NL": "Aangedreven mijntreinen rijden over een soepele en kronkelende baan.",
-            "sv-SE": "Motordrivna gruvtåg rusar längs en mjuk tvinnad spårlayout",
+            "sv-SE": "Berg- och dalbanegruvtåg med elmotordrift",
             "ko-KR": "부드럽게 꼬인 트랙 구조를 따라 달리는 동력 탄광 차량",
             "zh-CN": "具动力式矿坑列车冲向平滑旋转式轨道上",
             "zh-TW": "具動力式礦坑列車衝向平滑旋轉式軌道上",
@@ -115,7 +116,8 @@
             "cs-CZ": "Horská dráha s vozy ve stylu důlních vagónů, které jedou po hladkých kolejnicích skrze propletenou dráhu",
             "ja-JP": "動力付きの鉱山列車がスムーズでひねりのあるコースを進む乗物です",
             "pl-PL": "Napędzane wagoniki kopalniane jadą po gładkim i zakręconym torze",
-            "ru-RU": "Шахтёрские поезда несутся по сложному треку."
+            "ru-RU": "Шахтёрские поезда несутся по сложному треку.",
+            "eo-OO": "Minotrajno-temitaj trajnoj de onda fervojo, kiuj iras per si mem"
         },
         "capacity": {
             "en-GB": "2 or 4 passengers per car",
@@ -133,7 +135,7 @@
             "ja-JP": "各車両2名または4名",
             "pl-PL": "2 lub 4 pasażerów na wagonik",
             "ru-RU": "2 или 4 пассажира",
-            "eo-OO": "Po 2 aŭ 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 2 aŭ 4 pasaĝeroj por ĉaro"
         }
     }
 }

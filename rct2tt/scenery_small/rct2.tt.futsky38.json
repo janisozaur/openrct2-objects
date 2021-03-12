@@ -13,7 +13,7 @@
         "animationDelay": 3,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -42,7 +42,8 @@
             "cs-CZ": "Mrakodrap ze sopečného skla - nakloněná stěna",
             "pl-PL": "Wieżowiec z obsydianu - lekko nachylona ściana",
             "ru-RU": "Деталь стены небоскрёба",
-            "ja-JP": "黒曜石　高層ビル 傾斜した壁（緩やか）"
+            "ja-JP": "黒曜石　高層ビル 傾斜した壁（緩やか）",
+            "eo-OO": "Malprofunda Deklivita Muro de Obsidiana Ĉielskrapanto"
         }
     }
 }

@@ -9,7 +9,7 @@
         "price": 48,
         "removalPrice": 36,
         "cursor": "CURSOR_TREE_DOWN",
-        "sceneryGroup": "SCGTREES",
+        "sceneryGroup": "rct2.scgtrees",
         "isTree": true,
         "tiles": [
             {
@@ -54,7 +54,8 @@
             "pl-PL": "Sekwoja",
             "ru-RU": "Секвойя",
             "pt-BR": "Árvore Pau-brasil",
-            "ja-JP": "セコイア"
+            "ja-JP": "セコイア",
+            "eo-OO": "Sekvojoarbo"
         }
     }
 }

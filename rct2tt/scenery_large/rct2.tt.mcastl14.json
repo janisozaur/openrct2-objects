@@ -10,7 +10,7 @@
         "removalPrice": -114,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "tiles": [
             {
                 "x": 0,
@@ -85,7 +85,7 @@
             "pl-PL": "Narożnik wieży zamkowej",
             "ru-RU": "Деталь башни замка",
             "ja-JP": "城の塔のコーナー部分",
-            "eo-OO": "Angulo de Turo de Kastelo"
+            "eo-OO": "Anguloparto de Turo de Kastelo"
         }
     }
 }

@@ -10,7 +10,7 @@
         "removalPrice": 116,
         "cursor": "CURSOR_TREE_DOWN",
         "isPhotogenic": true,
-        "sceneryGroup": "SCGTREES",
+        "sceneryGroup": "rct2.scgtrees",
         "isTree": true,
         "tiles": [
             {
@@ -86,7 +86,7 @@
             "ru-RU": "Эвкалипт",
             "pt-BR": "Árvore de Eucalipto",
             "ja-JP": "ユーカリの木",
-            "eo-OO": "Eŭkalipto-Arbo"
+            "eo-OO": "Eŭkaliptoarbo"
         }
     }
 }

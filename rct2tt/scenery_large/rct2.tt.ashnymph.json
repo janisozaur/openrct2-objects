@@ -10,7 +10,7 @@
         "removalPrice": 44,
         "cursor": "CURSOR_TREE_DOWN",
         "isPhotogenic": true,
-        "sceneryGroup": "SCGTREES",
+        "sceneryGroup": "rct2.scgtrees",
         "isTree": true,
         "tiles": [
             {
@@ -144,7 +144,7 @@
             "pl-PL": "Jesion z nimfami",
             "ru-RU": "Дерево с нимфами",
             "ja-JP": "乙女とトリネコの木",
-            "eo-OO": "Frakseno kun Najadoj"
+            "eo-OO": "Fraksenoarbo kun Najadoj"
         }
     }
 }

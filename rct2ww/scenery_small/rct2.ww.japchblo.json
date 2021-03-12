@@ -10,7 +10,7 @@
         "removalPrice": 15,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 80,
-        "sceneryGroup": "SCGTREES",
+        "sceneryGroup": "rct2.scgtrees",
         "isTree": true,
         "shape": "4/4",
         "isRotatable": true,
@@ -35,7 +35,7 @@
             "ru-RU": "Сакура в цвету",
             "pt-BR": "Árvore Cerejeira Florida",
             "ja-JP": "日本の桜の木",
-            "eo-OO": "Japana Sakuro-Arbo"
+            "eo-OO": "Japana Sakuroarbo"
         }
     }
 }

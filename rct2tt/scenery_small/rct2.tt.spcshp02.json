@@ -27,7 +27,7 @@
         "name": {
             "en-GB": "Space Ship Comms Section",
             "fr-FR": "Section salle des communications du vaisseau spatial",
-            "de-DE": "Raumschiff Kommunikationstrakt",
+            "de-DE": "Raumschiff-Kommunikationstrakt",
             "es-ES": "Sección de comunicaciones de nave espacial",
             "it-IT": "Sezione delle comunicazioni della navicella spaziale",
             "nl-NL": "Communicatiegedeelte ruimteschip",
@@ -38,7 +38,8 @@
             "cs-CZ": "Vesmírná loď - komunikační sekce",
             "pl-PL": "Statek kosmiczny - sekcja łączności",
             "ru-RU": "Секция корабля",
-            "ja-JP": "宇宙船　通信部分"
+            "ja-JP": "宇宙船　通信部分",
+            "eo-OO": "Komunikadoparto de Kosmoŝipo"
         }
     }
 }

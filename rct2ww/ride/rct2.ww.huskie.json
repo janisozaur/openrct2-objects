@@ -77,7 +77,7 @@
             "pl-PL": "Psi zaprzęg",
             "ru-RU": "Хаски",
             "pt-BR": "Carro Huskie Siberiano",
-            "eo-OO": "Sledhundo Aŭto"
+            "eo-OO": "Sledhundo-Ĉaro"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of Huskie sleds",
@@ -86,7 +86,7 @@
             "es-ES": "Vehículos eléctricos con forma de trineos de perros huskies, que siguen una ruta sobre raíles",
             "it-IT": "Attrazione composta da veicoli a propulsione autonoma a forma di slitta coi cani, che procedono lungo un percorso",
             "nl-NL": "Elektrische voertuigen in de vorm van een huskieslee.",
-            "sv-SE": "Eldrivna hundslädesvagnar följer en utlagd bana",
+            "sv-SE": "Motordrivna hundslädar med huskyspann",
             "zh-CN": "依循着基层轨道运行以哈士奇雪橇为外形的动力式运载工具",
             "ja-JP": "犬ぞりの形をした動力付き車両です",
             "cs-CZ": "Vozy ve tvaru sněžných saní jezdí po postavené dráze",
@@ -94,7 +94,7 @@
             "pl-PL": "Pojazdy w kształcie sanek zaprzężonych w psy jadące po torze",
             "ru-RU": "Машинки в форме эскимосских санок едут по рельсам.",
             "pt-BR": "Veículos elétricos em formato de trenós puxados por cães huskies siberianos",
-            "eo-OO": "Ŝaltitaj veturiloj, kiuj havas la formon de sledoj por sledhundoj"
+            "eo-OO": "Ŝaltitaj veturiloj, formitaj kiel sledoj de sledhundoj"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -103,7 +103,7 @@
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
             "nl-NL": "2 passagiers per karretje",
-            "sv-SE": "2 passagerare per vagn",
+            "sv-SE": "2 passagerare per släde",
             "zh-CN": "每辆车限乘2人",
             "ja-JP": "各車両2名",
             "cs-CZ": "2 místa v každém voze",
@@ -111,7 +111,7 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 человека в машинке",
             "pt-BR": "2 passageiros por carro",
-            "eo-OO": "Po 2 pasaĝeroj por aŭto"
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
         }
     }
 }

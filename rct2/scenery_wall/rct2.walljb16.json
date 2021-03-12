@@ -11,7 +11,7 @@
         "isAllowedOnSlope": true,
         "height": 2,
         "price": 70,
-        "sceneryGroup": "SCGFENCE"
+        "sceneryGroup": "rct2.scgfence"
     },
     "images": ["$RCT2:OBJDATA/WALLJB16.DAT[0..5]"],
     "strings": {
@@ -31,7 +31,7 @@
             "ja-JP": "ジェリービーンの壁",
             "pl-PL": "Płot żelkowy",
             "ru-RU": "Стена",
-            "eo-OO": "Muro de Ĝelateno-Faboj"
+            "eo-OO": "Muro el Ĝelateno-Faboj"
         }
     }
 }

@@ -61,12 +61,12 @@
     "images": ["$RCT2:OBJDATA/SCG1920S.DAT[0..1]"],
     "strings": {
         "name": {
-            "en-GB": "Roaring Twenties Themeing",
+            "en-GB": "Roaring Twenties Theming",
             "fr-FR": "Thème des années folles",
             "de-DE": "Wilde-Zwanziger-Thema",
             "es-ES": "Tema locos años veinte",
             "it-IT": "Tema Ruggenti Anni Venti",
-            "nl-NL": "'Roaring Twenties'-thema",
+            "nl-NL": "‘Roaring Twenties’-thema",
             "sv-SE": "Glada tjugotalet-tema",
             "ko-KR": "광란의 20년대 테마",
             "zh-TW": "喧騰的20年代主題區",
@@ -74,7 +74,8 @@
             "cs-CZ": "Bouřlivá 20. léta",
             "pl-PL": "Wystrój Ryczących Dwudziestek",
             "ru-RU": "Двадцатые Годы",
-            "ja-JP": "1920時代のテーマ"
+            "ja-JP": "1920時代のテーマ",
+            "eo-OO": "Temo de Muĝadaj Dudekaj Jaroj"
         }
     }
 }

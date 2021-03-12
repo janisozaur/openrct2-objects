@@ -9,7 +9,7 @@
         "price": 18,
         "removalPrice": -12,
         "cursor": "CURSOR_STATUE_DOWN",
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "tiles": [
             {
                 "x": 0,
@@ -42,7 +42,7 @@
         "name": {
             "en-GB": "New York Inverted Corner Roof",
             "fr-FR": "Toit de virage inversé de New York",
-            "de-DE": "New York umgedrehte Dachecke",
+            "de-DE": "New-York-Dachecke, umgedreht",
             "es-ES": "Sección de tejado inversa de Nueva York",
             "it-IT": "Tetto in curva invertita di New York",
             "nl-NL": "Omgekeerd Bochtdak New York",
@@ -54,7 +54,7 @@
             "pl-PL": "Odwrócony narożnik dachu nowojorskiego",
             "ru-RU": "Угол крыши Нью-Йорка",
             "ja-JP": "ニューヨーク　コーナーの内側屋根部分",
-            "eo-OO": "Inversigita Novjorka Angulo-Tegmento"
+            "eo-OO": "Inversigita Novjorka Tegmentangulo"
         }
     }
 }

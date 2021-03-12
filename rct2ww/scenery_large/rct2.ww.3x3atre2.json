@@ -10,7 +10,7 @@
         "removalPrice": 28,
         "cursor": "CURSOR_TREE_DOWN",
         "isPhotogenic": true,
-        "sceneryGroup": "SCGTREES",
+        "sceneryGroup": "rct2.scgtrees",
         "isTree": true,
         "tiles": [
             {
@@ -86,7 +86,7 @@
             "ru-RU": "Дерево",
             "pt-BR": "Árvore Selvagem 1",
             "ja-JP": "ジャングルの木 1",
-            "eo-OO": "Ĝangala Arbo 1"
+            "eo-OO": "Ĝangaloarbo 1"
         }
     }
 }

@@ -76,7 +76,7 @@
             "de-DE": "Straßenbahnen",
             "es-ES": "Tranvías",
             "it-IT": "Tram",
-            "sv-SE": "Gruvkärror",
+            "sv-SE": "Spårvagnar",
             "ko-KR": "전차",
             "zh-CN": "有轨电车",
             "zh-TW": "電車",
@@ -85,7 +85,8 @@
             "ja-JP": "トラム",
             "nl-NL": "Trams",
             "pl-PL": "Tramwaje",
-            "ru-RU": "Трамвай"
+            "ru-RU": "Трамвай",
+            "eo-OO": "Tramoj"
         },
         "description": {
             "en-GB": "Old-timer replica trams",
@@ -93,8 +94,8 @@
             "de-DE": "Nachgebaute Oldtimer-Straßenbahnen",
             "es-ES": "Tranvías de estilo antiguo",
             "it-IT": "Repliche dei tram d'altri tempi",
-            "nl-NL": "Replica's van oude trams",
-            "sv-SE": "Gammaldags gruvkärror",
+            "nl-NL": "Replica’s van oude trams",
+            "sv-SE": "Gammaldags spårvagnar",
             "ko-KR": "옛날 스타일의 전차 모형",
             "zh-CN": "古老式复制有轨电车",
             "zh-TW": "復刻的懷舊電車",
@@ -102,7 +103,8 @@
             "cs-CZ": "Retro repliky tramvají",
             "ja-JP": "昔の路面電車のレプリカです",
             "pl-PL": "Repliki staroświeckich tramwajów",
-            "ru-RU": "Старый трамвай"
+            "ru-RU": "Старый трамвай",
+            "eo-OO": "Eksmodaj replikaĵoj de tramoj"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -120,7 +122,7 @@
             "ja-JP": "各車両10名",
             "pl-PL": "10 pasażerów na wagonik",
             "ru-RU": "10 пасс. на вагон",
-            "eo-OO": "Po 10 pasaĝeroj por aŭto"
+            "eo-OO": "Po 10 pasaĝeroj por ĉaro"
         }
     }
 }

@@ -107,7 +107,7 @@
     "images": ["$RCT2:OBJDATA/SCGSAMRC.DAT[0..1]"],
     "strings": {
         "name": {
-            "en-GB": "South America Themeing",
+            "en-GB": "South America Theming",
             "fr-FR": "Thème Amérique du Sud",
             "de-DE": "Südamerika-Thema",
             "es-ES": "Temática sudamericana",
@@ -119,7 +119,8 @@
             "pl-PL": "Wystrój południowoamerykański",
             "ru-RU": "Тема Северной Америки",
             "pt-BR": "Temática Sul-americana",
-            "ja-JP": "南アメリカのテーマ"
+            "ja-JP": "南アメリカのテーマ",
+            "eo-OO": "Sudamerika Temo"
         }
     }
 }

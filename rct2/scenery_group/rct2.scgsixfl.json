@@ -20,13 +20,13 @@
     "images": ["$RCT2:OBJDATA/SCGSIXFL.DAT[0..1]"],
     "strings": {
         "name": {
-            "en-GB": "Six Flags Themeing",
+            "en-GB": "Six Flags Theming",
             "fr-FR": "Thème Six Flags",
             "de-DE": "Six-Flags-Thema",
             "es-ES": "Temática six flags",
             "it-IT": "Tema Six Flags",
             "nl-NL": "Six Flags-thema",
-            "sv-SE": "Six Flags tema",
+            "sv-SE": "Six Flags-tema",
             "ko-KR": "식스 플래그 테마",
             "zh-CN": "六旗主题区",
             "zh-TW": "六旗主題區",
@@ -34,7 +34,8 @@
             "cs-CZ": "Six Flags kulisy",
             "ja-JP": "シックスフラッグスのテーマ",
             "pl-PL": "Wystrój Sześciu Flag",
-            "ru-RU": "Шесть Флагов"
+            "ru-RU": "Шесть Флагов",
+            "eo-OO": "Temo de Six Flags"
         }
     }
 }

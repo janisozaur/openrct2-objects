@@ -6,7 +6,7 @@
     "sourceGame": "rct2ww",
     "objectType": "ride",
     "properties": {
-        "type": "corkscrew_rc",
+        "type": "hypercoaster",
         "category": "rollercoaster",
         "noInversions": true,
         "minCarsPerTrain": 2,
@@ -111,7 +111,7 @@
             "es-ES": "Atracción de la Anaconda",
             "it-IT": "L'anaconda",
             "nl-NL": "Anacondatrein",
-            "sv-SE": "Anaconda-bana",
+            "sv-SE": "Anakondavagnar",
             "zh-CN": "蛇游乐设施",
             "cs-CZ": "Anakonda",
             "ja-JP": "アナコンダ・トレイン",
@@ -128,7 +128,7 @@
             "es-ES": "Espaciosos trenes con sencillas barras de sujeción",
             "it-IT": "Usa ampie carrozze con semplici cinture di sicurezza",
             "nl-NL": "Comfortabele treinen met enkel schootbeugels.",
-            "sv-SE": "Rymliga vagnar med enkel fastspänning",
+            "sv-SE": "Rymliga vagnar med enkla byglar",
             "zh-CN": "有简单护膝装置的宽敞列车",
             "cs-CZ": "Prostorné vozy s opěrkou v klíně",
             "ja-JP": "シンプルな安全バーが付いた広々とした車両です",
@@ -153,7 +153,7 @@
             "pl-PL": "6 pasażerów na wagonik",
             "pt-BR": "6 passageiros por vagão",
             "ru-RU": "6 пассажиров",
-            "eo-OO": "Po 6 pasaĝeroj por aŭto"
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
         }
     }
 }

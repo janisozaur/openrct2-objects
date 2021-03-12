@@ -10,7 +10,7 @@
         "removalPrice": -12,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "2/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -35,7 +35,8 @@
             "cs-CZ": "Věznice - stěna",
             "pl-PL": "Segment muru więziennego",
             "ru-RU": "Тюремная стена",
-            "ja-JP": "刑務所　壁部分"
+            "ja-JP": "刑務所　壁部分",
+            "eo-OO": "Muroparto de Malliberejo"
         }
     }
 }

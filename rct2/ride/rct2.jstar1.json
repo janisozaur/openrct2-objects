@@ -73,7 +73,8 @@
             "cs-CZ": "Tobogánová horská dráha",
             "ja-JP": "トボガン車両",
             "pl-PL": "Na saneczki",
-            "ru-RU": "Сани"
+            "ru-RU": "Сани",
+            "eo-OO": "Sledo-Ĉaroj"
         },
         "description": {
             "en-GB": "Toboggan-shaped roller coaster cars with in-line seating",
@@ -82,7 +83,7 @@
             "es-ES": "Montaña rusa con forma de toboganes",
             "it-IT": "Carrozze da ottovolante a forma di toboghe con i sedili l'uno dietro l'altro",
             "nl-NL": "Achtbaankarretjes in de vorm van een rodelslee, waarin de passagiers achter elkaar zitten.",
-            "sv-SE": "Kälkformade berg- och dalbanevagnar med sätena på rad",
+            "sv-SE": "Kälkformade berg- och dalbanevagnar med säten i en rad",
             "ko-KR": "한 줄로 탑승하는 터보건 썰매 모양의 롤러코스터",
             "zh-CN": "平底雪橇外形的过山车与同轴座位",
             "zh-TW": "平底雪橇外形的雲霄飛車與同軸座位",
@@ -90,7 +91,8 @@
             "cs-CZ": "Horská dráha ve stylu tobogánu s vozy se sedačkami za sebou",
             "ja-JP": "リュージュ形の座席が直列したローラーコースターです",
             "pl-PL": "Kolejka górska z wagonikami w kształcie sanek, w których pasażerowie siedzą jeden za drugim",
-            "ru-RU": "Вагончики в виде саней для горок"
+            "ru-RU": "Вагончики в виде саней для горок",
+            "eo-OO": "Sledformaj ĉaroj de onda fervojo kun kolono da seĝoj"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -108,7 +110,7 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

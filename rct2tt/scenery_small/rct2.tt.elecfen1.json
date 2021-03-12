@@ -13,7 +13,7 @@
         "animationDelay": 2,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGFENCE",
+        "sceneryGroup": "rct2.scgfence",
         "shape": "3/4+D",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -42,7 +42,7 @@
             "pl-PL": "Narożnik elektrycznego ogrodzenia",
             "ru-RU": "Деталь ограды",
             "ja-JP": "電気フェンス コーナー部分",
-            "eo-OO": "Angulo de Elektra Barilo"
+            "eo-OO": "Anguloparto de Elektra Barilo"
         }
     }
 }

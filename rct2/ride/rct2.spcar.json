@@ -65,7 +65,7 @@
             "de-DE": "Sportwagen",
             "es-ES": "Deportivos",
             "it-IT": "Auto sportive",
-            "nl-NL": "Sportauto's",
+            "nl-NL": "Sportauto’s",
             "sv-SE": "Sportbilar",
             "ko-KR": "스포츠 카",
             "zh-CN": "运动车",
@@ -74,7 +74,8 @@
             "cs-CZ": "Sportovní auta",
             "ja-JP": "スポーツカー",
             "pl-PL": "Wyścigówki",
-            "ru-RU": "Спорткары"
+            "ru-RU": "Спорткары",
+            "eo-OO": "Sportaŭtoj"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sports cars",
@@ -83,7 +84,7 @@
             "es-ES": "Vehículos autopropulsados de forma de carreras",
             "it-IT": "Veicoli a motore che ricordano le auto sportive",
             "nl-NL": "Elektrische voertuigen in de vorm van een sportauto.",
-            "sv-SE": "Motordrivna fordon i form av sportbilar",
+            "sv-SE": "Motordrivna fordon utformade som sportbilar",
             "ko-KR": "스포츠 카 모양의 차량",
             "zh-CN": "运动车外形的动力机械车辆",
             "zh-TW": "運動車外形的動力機械車輛",
@@ -91,7 +92,8 @@
             "cs-CZ": "Vozy ve tvaru sportovních aut",
             "ja-JP": "スポーツカーの形をした、動力付きの車両です",
             "pl-PL": "Pojazdy z napędem w kształcie samochodów wyścigowych",
-            "ru-RU": "Машинки в форме спорткаров"
+            "ru-RU": "Машинки в форме спорткаров",
+            "eo-OO": "Ŝaltitaj veturiloj formitaj kiel sportaŭtoj"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -109,7 +111,7 @@
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-OO": "Po 2 pasaĝeroj por aŭto"
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
         }
     }
 }

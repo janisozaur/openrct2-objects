@@ -31,7 +31,7 @@
     "images": ["$RCT2:OBJDATA/SCGCANDY.DAT[0..1]"],
     "strings": {
         "name": {
-            "en-GB": "Giant Candy Themeing",
+            "en-GB": "Giant Candy Theming",
             "fr-FR": "Thème Bonbon",
             "de-DE": "Süßwarenland-Thema",
             "es-ES": "Temática caramelolandia",
@@ -46,7 +46,7 @@
             "ja-JP": "巨大キャンディーのテーマ",
             "pl-PL": "Wystrój cukierkowy",
             "ru-RU": "Конфета",
-            "eo-OO": "Giganta Dolĉaĵo-Temo"
+            "eo-OO": "Temo de Giganta Dolĉaĵo"
         }
     }
 }

@@ -10,7 +10,7 @@
         "removalPrice": 4,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -35,7 +35,8 @@
             "cs-CZ": "Pískovcový mrakodrap - střední zaoblená část",
             "pl-PL": "Wieżowiec z piaskowca - środkowa pochyła krzywizna",
             "ru-RU": "Деталь небоскрёба",
-            "ja-JP": "砂岩 高層ビル 中間　カーブしたスロープ"
+            "ja-JP": "砂岩 高層ビル 中間　カーブしたスロープ",
+            "eo-OO": "Meza Kurba Deklivo de Sabloŝtona Ĉielskrapanto"
         }
     }
 }

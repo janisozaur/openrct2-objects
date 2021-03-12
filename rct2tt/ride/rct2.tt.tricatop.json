@@ -52,7 +52,7 @@
             "de-DE": "Triceratops-Autoscooter",
             "es-ES": "Coches de choque Triceratops",
             "it-IT": "Autoscontro Triceratopo",
-            "nl-NL": "Triceratopsbotsauto's",
+            "nl-NL": "Triceratopsbotsauto’s",
             "sv-SE": "Triceratopsbilar",
             "ko-KR": "트리케라톱스 범퍼카",
             "zh-TW": "三角龍碰碰車",
@@ -60,7 +60,8 @@
             "ja-JP": "トリケラトプス・バンパーカー",
             "cs-CZ": "Autodrom s Triceratopsem",
             "pl-PL": "Dinozaurowe samochodziki",
-            "ru-RU": "Трицерапторы"
+            "ru-RU": "Трицерапторы",
+            "eo-OO": "Triceratopaj Aŭtetoj"
         },
         "description": {
             "en-GB": "Riders lock horns with each other in triceratops dodgems",
@@ -69,15 +70,16 @@
             "de-DE": "Die Fahrer liefern sich beim Autoscooter harte Gefechte in Triceratops-Wagen",
             "es-ES": "Los usuarios se pegan cornadas en los coches de choque Triceratops.",
             "it-IT": "I passeggeri si lanciano uno contro l'altro in auto a forma di Triceratopo.",
-            "nl-NL": "De passagiers vatten elkaar bij de horens in triceratopsvormige botsauto's.",
-            "sv-SE": "Triceratops-formade radiobilar som förarna kan stångas med.",
+            "nl-NL": "De passagiers vatten elkaar bij de horens in triceratopsvormige botsauto’s.",
+            "sv-SE": "Triceratops-formade radiobilar som förarna kan stångas med",
             "ko-KR": "트리케라톱스 모양의 범퍼카에 타고 서로 함께 부딛히는 차량",
             "zh-TW": "三角龍形碰碰車乘客以角彼此纏鬥",
             "pt-BR": "Os visitantes batem os chifres entre si em carrinhos bate-bate de Tricerátops",
             "ja-JP": "トリケラトプス形のバンパーカーに乗り、互いにぶつけ合う乗物です",
             "cs-CZ": "Autodrom s vozy ve tvaru Triceratopsů",
             "pl-PL": "Pasażerowie jeżdżą samochodzikami w kształcie triceratopsów i atakują się ich rogami",
-            "ru-RU": "Люди катаются в маленьких электромобильчиках."
+            "ru-RU": "Люди катаются в маленьких электромобильчиках.",
+            "eo-OO": "Rajdantoj ŝlosas kornojn kun unu la alian en triceratopo-doĝemoj"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -94,7 +96,7 @@
             "cs-CZ": "1 místo v každém voze",
             "pl-PL": "Jednomiejscowe",
             "ru-RU": "1 чел. в машине",
-            "eo-OO": "Po 1 ulo por aŭto"
+            "eo-OO": "Po 1 ulo por ĉaro"
         }
     }
 }

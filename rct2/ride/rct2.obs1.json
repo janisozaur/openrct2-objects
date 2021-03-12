@@ -130,7 +130,7 @@
             "es-ES": "Torre de Observación",
             "it-IT": "Torre d'osservazione",
             "nl-NL": "Enkeldekscabine",
-            "sv-SE": "Observationstorn",
+            "sv-SE": "Utsiktskabin med ett däck",
             "ko-KR": "전망탑",
             "zh-CN": "了望台",
             "zh-TW": "瞭望台",
@@ -138,7 +138,8 @@
             "cs-CZ": "Vyhlídková věž",
             "ja-JP": "展望台",
             "pl-PL": "Wieża obserwacyjna",
-            "ru-RU": "Смотровая башня"
+            "ru-RU": "Смотровая башня",
+            "eo-OO": "Unuetaĝa Kajuto"
         },
         "description": {
             "en-GB": "Single-deck rotating observation cabin",
@@ -147,7 +148,7 @@
             "es-ES": "Cabina de observación que viaja hasta una torre alta",
             "it-IT": "Cabina di osservazione rotante che sale su un'alta torre",
             "nl-NL": "Draaiende observatiecabine die langs een verticale toren omhoog gaat.",
-            "sv-SE": "Roterande utsiktskabin som åker upp för ett högt torn",
+            "sv-SE": "Roterande utsiktskabin",
             "ko-KR": "높은 탑을 따라 올라가면서 회전하는 전망대 객실",
             "zh-CN": "观察舱旋转移动到高塔上面。",
             "zh-TW": "觀察艙旋轉移動到高塔上面。",
@@ -155,7 +156,8 @@
             "cs-CZ": "Otáčející se vyhlídková kabina, která postupně vyjíždí na vysokou věž",
             "ja-JP": "展望キャビンが回転しながら高い塔を登ります",
             "pl-PL": "Obrotowa kabina obserwacyjna wjeżdżająca na wysoką wieżę",
-            "ru-RU": "Вращающаяся кабинка поднимается на башню."
+            "ru-RU": "Вращающаяся кабинка поднимается на башню.",
+            "eo-OO": "Unuetaĝa turniĝanta kajuto por observadi"
         },
         "capacity": {
             "en-GB": "20 passengers",

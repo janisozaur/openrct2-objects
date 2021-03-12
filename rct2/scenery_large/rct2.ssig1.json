@@ -39,7 +39,7 @@
             "es-ES": "Señal desplazante",
             "it-IT": "Insegna a scorrimento",
             "nl-NL": "Elektronisch mededelingenbord",
-            "sv-SE": "Rullskylt",
+            "sv-SE": "Rullande skylt",
             "ko-KR": "스크롤링 전광판",
             "zh-CN": "卷动式招牌",
             "zh-TW": "捲動式招牌",
@@ -47,7 +47,8 @@
             "cs-CZ": "Posuvná cedule",
             "ja-JP": "スクロール看板",
             "pl-PL": "Znak przewijany",
-            "ru-RU": "Знак"
+            "ru-RU": "Знак",
+            "eo-OO": "Rulumanta Afiŝo"
         }
     }
 }

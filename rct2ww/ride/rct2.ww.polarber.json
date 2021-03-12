@@ -63,7 +63,7 @@
             "es-ES": "Montaña Rusa Oso Polar",
             "it-IT": "Ottovolante dell'orso polare",
             "nl-NL": "IJsbeerkarretjes",
-            "sv-SE": "Berg- och isbjörnsbana",
+            "sv-SE": "Berg- och isbjörnsvagnar",
             "zh-CN": "北极熊云霄飞车",
             "cs-CZ": "Horská dráha polárního medvěda",
             "ja-JP": "シロクマ車両",
@@ -71,7 +71,7 @@
             "pl-PL": "Niedţwiedţ polarny",
             "pt-BR": "Trens Urso Polar",
             "ru-RU": "Белый медведь",
-            "eo-OO": "Blanka Urso-Trajnoj"
+            "eo-OO": "Blankaj Urso-Trajnoj"
         },
         "description": {
             "en-GB": "Polar bear-shaped suspended roller coaster trains in which riders sit in pairs facing either forwards or backwards",
@@ -80,7 +80,7 @@
             "es-ES": "Los pasajeros se sientan en parejas mirando atrás o adelante y atraviesan ceñidas inversiones que giran y se retuercen",
             "it-IT": "I passeggeri siedono a coppie, rivolti in avanti o indietro, e ruotano in diversi modi superando strette inversioni",
             "nl-NL": "Passagiers zitten in paren, met het gezicht naar voren of achteren, en gaan door scherpe omkeringen.",
-            "sv-SE": "Passagerare som sitter parvis i riktning framåt eller bakåt, färdas genom tvära svängar och spiraler",
+            "sv-SE": "Isbjörnsformade upphängda berg- och dalbanevagnar där passagerarna sitter parvis och åker fram- eller baklänges",
             "zh-CN": "乘客成对而坐当他们在通过牢固的倒转回旋时会面临向前或向后的运行",
             "cs-CZ": "Návštěvníci sedí po dvou zavěšení pod tratí a vidí dopředu nebo dozadu podle toho, jak zrovna jedou skrze ostré zatáčky",
             "ko-KR": "앞쪽이나 뒤쪽을 보고 2명씩 마주보고 짝지어 앉아 루프와 트위스트와 급격한 전이 트랙을 지나는 차량",
@@ -88,7 +88,7 @@
             "pt-BR": "Trens de montanha russa suspensa em formato de urso polar onde os passageiros se sentam em pares virados ou para frente ou para trás ",
             "ru-RU": "Люди сидят парами и вращаются вперед-назад",
             "ja-JP": "ホッキョクグマの形をした、コースにぶら下がったローラーコースター車両で、乗客は2名ずつ背中合わせに座ります。",
-            "eo-OO": "Penditaj trajnoj kun formo de blankaj ursoj, en kiuj rajdantoj sidas pare, kaj frontas aŭ antaŭe aŭ malantaŭe"
+            "eo-OO": "Penditaj trajnoj formitaj kiel blankaj ursoj, en kiuj rajdantoj sidas pare, kaj frontas aŭ antaŭe aŭ malantaŭe"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -105,7 +105,7 @@
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

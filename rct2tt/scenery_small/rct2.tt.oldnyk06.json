@@ -10,7 +10,7 @@
         "removalPrice": -8,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 64,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "1/4+D",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -25,7 +25,7 @@
         "name": {
             "en-GB": "New York Corner Filler",
             "fr-FR": "Remplissage de virage de New York",
-            "de-DE": "New York Eckenfüllstoff",
+            "de-DE": "New-York-Eckenfüllstoff",
             "es-ES": "Relleno de esquina de Nueva York",
             "it-IT": "Riporto in curva invertita di New York",
             "nl-NL": "Vulstuk bocht New York",
@@ -37,7 +37,7 @@
             "pl-PL": "Wypełnienie narożnika nowojorskiego",
             "ru-RU": "Деталь Нью-Йорка",
             "ja-JP": "ニューヨーク　コーナーのフィラー",
-            "eo-OO": "Novjorka Angulaĵo"
+            "eo-OO": "Novjorka Diversaĵo por Angulo"
         }
     }
 }

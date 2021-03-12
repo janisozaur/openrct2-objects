@@ -10,7 +10,7 @@
         "removalPrice": 20,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "tiles": [
             {
                 "x": 0,
@@ -42,7 +42,8 @@
             "cs-CZ": "Kráter - roh",
             "pl-PL": "Narożnik czerwonego krateru po meteorycie",
             "ru-RU": "Часть кратера",
-            "ja-JP": "赤い隕石火口 コーナー"
+            "ja-JP": "赤い隕石火口 コーナー",
+            "eo-OO": "Angulo de Ruĝa Bolido-Kratero"
         }
     }
 }

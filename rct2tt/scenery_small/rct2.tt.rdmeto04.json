@@ -10,7 +10,7 @@
         "removalPrice": 10,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 48,
-        "sceneryGroup": "SCGWALLS",
+        "sceneryGroup": "rct2.scgwalls",
         "shape": "3/4+D",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "isRotatable": true,
@@ -33,7 +33,8 @@
             "cs-CZ": "Kráter - obrácený roh",
             "pl-PL": "Odwrócony narożnik czerwonego krateru po meteorycie",
             "ru-RU": "Деталь метеорита",
-            "ja-JP": "赤い隕石火口 コーナー（内側）"
+            "ja-JP": "赤い隕石火口 コーナー（内側）",
+            "eo-OO": "Inversigita Angulo de Ruĝa Bolido-Kratero"
         }
     }
 }
