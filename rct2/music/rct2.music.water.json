@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC14|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 14,
@@ -36,7 +36,7 @@
             "tr-TR": "Su tarzı",
             "zh-CN": "水上风格",
             "zh-TW": "水文風格",
-            "eo-OO": "Akva stilo"
+            "eo-ZZ": "Akva stilo"
         }
     }
 }

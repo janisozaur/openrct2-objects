@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC07|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 7,
@@ -36,7 +36,7 @@
             "tr-TR": "Oyuncak dünyası tarzı",
             "zh-CN": "童真风格",
             "zh-TW": "童真風格",
-            "eo-OO": "Ludilejo-stilo"
+            "eo-ZZ": "Ludilejo-stilo"
         }
     }
 }

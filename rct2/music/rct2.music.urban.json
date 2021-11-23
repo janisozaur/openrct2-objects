@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC26|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 26,
@@ -36,7 +36,7 @@
             "tr-TR": "Şehir tarzı",
             "zh-CN": "都市风格",
             "zh-TW": "都市風格",
-            "eo-OO": "Urba stilo"
+            "eo-ZZ": "Urba stilo"
         }
     }
 }

@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC05|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 5,
@@ -36,7 +36,7 @@
             "tr-TR": "Cengel tarzı",
             "zh-CN": "丛林敲击风格",
             "zh-TW": "叢林敲擊風格",
-            "eo-OO": "Ĝangalo-tamburoj-stilo"
+            "eo-ZZ": "Ĝangalo-tamburoj-stilo"
         }
     }
 }

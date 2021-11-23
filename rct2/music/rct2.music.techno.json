@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC11|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 11,
@@ -36,7 +36,7 @@
             "tr-TR": "Tekno tarzı",
             "zh-CN": "科幻风格",
             "zh-TW": "電子風格",
-            "eo-OO": "Tekna stilo"
+            "eo-ZZ": "Tekna stilo"
         }
     }
 }

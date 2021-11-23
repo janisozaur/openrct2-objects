@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC20|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "music",
     "properties": {
         "originalStyleId": 20,
@@ -36,7 +36,7 @@
             "tr-TR": "Rock tarzı 2",
             "zh-CN": "摇滚风格2",
             "zh-TW": "搖滾風格2",
-            "eo-OO": "Rokmuzika stilo 2"
+            "eo-ZZ": "Rokmuzika stilo 2"
         }
     }
 }
